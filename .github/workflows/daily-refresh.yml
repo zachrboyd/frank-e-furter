@@ -4,6 +4,9 @@ on:
     - cron: '0 10 * * *'  # 10:00 UTC = 5:00 AM CT
   workflow_dispatch:  # manual trigger for testing
 
+permissions:
+  contents: write
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
