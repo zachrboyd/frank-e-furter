@@ -1,0 +1,33 @@
+name: Daily Lead Refresh
+on:
+  schedule:
+    - cron: '0 10 * * *'  # 10:00 UTC = 5:00 AM CT
+  workflow_dispatch:  # manual trigger for testing
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch and score leads
+        run: python scripts/fetch-and-score.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet public/seed.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "Frank E. Furter Bot"
+          git config user.email "frank@example.com"
+          git add public/seed.json
+          git commit -m "🌭 Daily lead refresh — $(date +%Y-%m-%d)"
+          git push
