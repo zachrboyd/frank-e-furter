@@ -1,0 +1,334 @@
+@import "tailwindcss";
+
+:root {
+  --chalkboard: #1A1A1A;
+  --butcher-cream: #F5F1E8;
+  --mustard: #D4A500;
+  --ketchup: #DC2F02;
+  --pickle: #2D5016;
+  --grease: #4A4A4A;
+  --silver: #B8B8B8;
+  --blood: #5C0A0A;
+}
+
+@theme inline {
+  --color-chalkboard: var(--chalkboard);
+  --color-cream: var(--butcher-cream);
+  --color-mustard: var(--mustard);
+  --color-ketchup: var(--ketchup);
+  --color-pickle: var(--pickle);
+  --color-grease: var(--grease);
+  --color-silver: var(--silver);
+  --color-blood: var(--blood);
+  --font-sans: var(--font-ibm-plex);
+  --font-mono: var(--font-ibm-plex);
+}
+
+/* Skip to content link */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 16px;
+  z-index: 100;
+  padding: 8px 16px;
+  background: var(--mustard);
+  color: var(--chalkboard);
+  font-weight: 700;
+  border-radius: 0 0 4px 4px;
+  text-decoration: none;
+}
+.skip-link:focus {
+  top: 0;
+}
+
+/* Chalkboard page background */
+body {
+  background-color: var(--chalkboard);
+  background-image:
+    radial-gradient(circle at 20% 50%, rgba(255,255,255,0.03) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(0,0,0,0.1) 0%, transparent 50%);
+  color: var(--butcher-cream);
+  font-family: var(--font-ibm-plex), 'IBM Plex Sans', Georgia, serif;
+  line-height: 1.6;
+}
+
+/* Butcher paper card texture */
+.card-texture {
+  background-color: var(--butcher-cream);
+  background-image:
+    repeating-linear-gradient(
+      90deg, transparent, transparent 2px,
+      rgba(0,0,0,0.02) 2px, rgba(0,0,0,0.02) 4px
+    ),
+    repeating-linear-gradient(
+      0deg, transparent, transparent 2px,
+      rgba(0,0,0,0.02) 2px, rgba(0,0,0,0.02) 4px
+    );
+}
+
+/* Card hover */
+.lead-card {
+  transition: all 0.15s ease-out;
+  border: 2px solid var(--silver);
+  border-radius: 3px;
+  box-shadow:
+    0 0 0 1px rgba(0,0,0,0.05),
+    0 2px 4px rgba(0,0,0,0.08);
+}
+.lead-card:hover,
+.lead-card:focus-within {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  border-color: var(--mustard);
+  transform: scale(1.02);
+}
+
+/* VIP card */
+.vip-card {
+  background: #FFFFFF;
+  border: 2px solid var(--pickle);
+  border-radius: 3px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: all 0.15s ease-out;
+}
+.vip-card:hover,
+.vip-card:focus-within {
+  box-shadow: 0 6px 12px rgba(0,0,0,0.18);
+  transform: scale(1.01);
+}
+
+/* Confidence badge stamp */
+.stamp {
+  border: 2px dashed var(--chalkboard);
+  border-radius: 2px;
+  background: var(--mustard);
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-weight: bold;
+  color: var(--chalkboard);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: all 0.15s ease-out;
+  opacity: 0.92;
+}
+.lead-card:hover .stamp,
+.lead-card:focus-within .stamp {
+  opacity: 1;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+/* CTA buttons */
+.cta-primary {
+  background: var(--pickle);
+  color: #fff;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  font-weight: 700;
+  transition: all 0.15s ease-out;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.cta-primary:hover,
+.cta-primary:focus-visible {
+  filter: brightness(0.9);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  transform: translateY(-1px);
+}
+.cta-primary:active {
+  transform: translateY(0);
+  box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.cta-secondary {
+  background: transparent;
+  color: var(--chalkboard);
+  padding: 8px 12px;
+  border: 1px solid var(--silver);
+  border-radius: 2px;
+  cursor: pointer;
+  transition: all 0.15s ease-out;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.cta-secondary:hover,
+.cta-secondary:focus-visible {
+  background: #EEEEEE;
+  border-color: var(--mustard);
+}
+.cta-secondary.copied {
+  border-color: var(--mustard);
+}
+
+/* Focus ring for keyboard navigation */
+*:focus-visible {
+  outline: 3px solid var(--mustard);
+  outline-offset: 2px;
+}
+
+/* Section divider */
+.section-divider {
+  border: none;
+  border-top: 2px dashed var(--silver);
+  margin: 32px 0;
+}
+
+/* Freshness badges */
+.badge-hot {
+  background: var(--ketchup);
+  color: #fff;
+}
+.badge-warm {
+  background: var(--mustard);
+  color: var(--chalkboard);
+}
+.badge-cool {
+  background: var(--grease);
+  color: #fff;
+}
+
+/* Nav active state */
+.nav-link {
+  color: var(--butcher-cream);
+  text-decoration: none;
+  padding: 4px 12px;
+  border-radius: 2px;
+  transition: all 0.15s ease-out;
+  white-space: nowrap;
+}
+.nav-link:hover,
+.nav-link:focus-visible {
+  background: rgba(212,165,0,0.2);
+  color: var(--mustard);
+}
+
+/* Keyboard focus highlight for lead cards */
+.lead-focused {
+  outline: 3px solid var(--mustard);
+  outline-offset: 4px;
+}
+
+/* Keyboard help overlay */
+.kbd-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(26,26,26,0.92);
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.kbd-box {
+  background: var(--butcher-cream);
+  color: var(--chalkboard);
+  border-radius: 3px;
+  padding: 32px;
+  max-width: 480px;
+  width: 90%;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+}
+.kbd-key {
+  display: inline-block;
+  background: var(--chalkboard);
+  color: var(--butcher-cream);
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-family: monospace;
+  font-size: 14px;
+  min-width: 28px;
+  text-align: center;
+}
+
+/* Irony badge */
+.irony-badge {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  font-size: 20px;
+  cursor: help;
+}
+
+/* VIP enterprise badge */
+.enterprise-badge {
+  background: var(--pickle);
+  color: #fff;
+  padding: 2px 8px;
+  border-radius: 2px;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Sticky nav */
+.sticky-nav {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  background: rgba(26,26,26,0.95);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid rgba(184,184,184,0.3);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 64px;
+}
+
+/* Staggered cards for Today's Specials on desktop */
+@media (min-width: 1024px) {
+  .stagger-odd { margin-left: 0; margin-right: 40px; }
+  .stagger-even { margin-left: 40px; margin-right: 0; }
+}
+
+/* Toast */
+.toast {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  background: var(--mustard);
+  color: var(--chalkboard);
+  padding: 12px 20px;
+  border-radius: 3px;
+  font-weight: 700;
+  z-index: 60;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  animation: slideUp 0.2s ease-out;
+}
+@keyframes slideUp {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+/* Grease stain decoration */
+body::before {
+  content: '';
+  position: fixed;
+  bottom: 40px;
+  right: 60px;
+  width: 120px;
+  height: 120px;
+  background: radial-gradient(circle, rgba(0,0,0,0.04), transparent);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: -1;
+}
+body::after {
+  content: '';
+  position: fixed;
+  top: 120px;
+  left: 30px;
+  width: 80px;
+  height: 80px;
+  background: radial-gradient(circle, rgba(0,0,0,0.03), transparent);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: -1;
+}
