@@ -1,28 +1,8 @@
 {
-  "lastUpdated": "2026-04-13T15:05:12Z",
+  "lastUpdated": "2026-04-14T15:03:41Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Consolidated Restaurant Operations, Inc.",
-      "website": "consolidatedrestaurantoperations.com",
-      "industry": "Food Service",
-      "caseName": "Drummond v. Consolidated Restaurant Operations, Inc.",
-      "plaintiff": "Drummond",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "3:26-cv-00764",
-      "dateFiled": "2026-04-06",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Food Service company sued for ADA website accessibility in M.D. Florida. Drummond is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
       "defendant": "H&M Fashion USA, Inc",
       "website": "hmfashionusa.com",
       "industry": "Consumer Products",
@@ -42,7 +22,7 @@
       "coldOpen": ""
     },
     {
-      "id": 3,
+      "id": 2,
       "defendant": "Louisiana Fish Fry Products, Ltd.",
       "website": "louisianafishfryproducts.com",
       "industry": "Food & Nutrition",
@@ -62,7 +42,7 @@
       "coldOpen": ""
     },
     {
-      "id": 4,
+      "id": 3,
       "defendant": "The Finish Line, Inc.",
       "website": "thefinishline.com",
       "industry": "Consumer Products",
@@ -83,7 +63,7 @@
       "briefTheAE": "The Finish Line, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 5,
+      "id": 4,
       "defendant": "Paris Presents Incorporated",
       "website": "parispresentsincorporated.com",
       "industry": "Consumer Products",
@@ -103,7 +83,7 @@
       "coldOpen": ""
     },
     {
-      "id": 6,
+      "id": 5,
       "defendant": "LT Foods Americas, Inc.",
       "website": "ltfoodsamericas.com",
       "industry": "Food & Nutrition",
@@ -123,7 +103,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 6,
       "defendant": "Kennedy Rice Mill, LLC",
       "website": "kennedyricemill.com",
       "industry": "Consumer Products",
@@ -143,7 +123,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 7,
       "defendant": "Alchemee LLC",
       "website": "alchemee.com",
       "industry": "Consumer Products",
@@ -163,7 +143,47 @@
       "coldOpen": ""
     },
     {
+      "id": 8,
+      "defendant": "Naos USA, Inc.",
+      "website": "naosusa.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. Naos USA, Inc.",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-03028",
+      "dateFiled": "2026-04-14",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
       "id": 9,
+      "defendant": "Allagash Brewing Company",
+      "website": "allagashbrewingcompany.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. Allagash Brewing Company",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-03027",
+      "dateFiled": "2026-04-14",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 10,
       "defendant": "Shoe Show, Inc.",
       "website": "shoeshow.com",
       "industry": "Footwear & Apparel",
@@ -183,7 +203,7 @@
       "coldOpen": ""
     },
     {
-      "id": 10,
+      "id": 11,
       "defendant": "Capital City, LLC",
       "website": "capitalcity.com",
       "industry": "Consumer Products",
@@ -203,7 +223,7 @@
       "coldOpen": ""
     },
     {
-      "id": 11,
+      "id": 12,
       "defendant": "Nester Hosiery, LLC",
       "website": "nesterhosiery.com",
       "industry": "Footwear & Apparel",
@@ -223,7 +243,7 @@
       "coldOpen": ""
     },
     {
-      "id": 12,
+      "id": 13,
       "defendant": "Biggs And Featherbelle, LLC",
       "website": "biggsandfeatherbelle.com",
       "industry": "Consumer Products",
@@ -243,7 +263,7 @@
       "coldOpen": ""
     },
     {
-      "id": 13,
+      "id": 14,
       "defendant": "G. L. Mezzetta, Inc.",
       "website": "glmezzetta.com",
       "industry": "Consumer Products",
@@ -263,7 +283,7 @@
       "coldOpen": ""
     },
     {
-      "id": 14,
+      "id": 15,
       "defendant": "Converse Inc.",
       "website": "converse.com",
       "industry": "Consumer Products",
@@ -283,7 +303,7 @@
       "coldOpen": ""
     },
     {
-      "id": 15,
+      "id": 16,
       "defendant": "CBP Orlando, LLC",
       "website": "cbporlando.com",
       "industry": "Consumer Products",
@@ -303,7 +323,7 @@
       "coldOpen": ""
     },
     {
-      "id": 16,
+      "id": 17,
       "defendant": "Torchbearer Sauces, LLC",
       "website": "torchbearersauces.com",
       "industry": "Food & Nutrition",
@@ -323,7 +343,7 @@
       "coldOpen": ""
     },
     {
-      "id": 17,
+      "id": 18,
       "defendant": "Arhaus,LLC",
       "website": "arhaus.com",
       "industry": "Consumer Products",
@@ -343,7 +363,7 @@
       "coldOpen": ""
     },
     {
-      "id": 18,
+      "id": 19,
       "defendant": "New Balance Athletics, Inc.",
       "website": "newbalanceathletics.com",
       "industry": "Footwear & Apparel",
@@ -364,7 +384,7 @@
       "briefTheAE": "New Balance Athletics, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 19,
+      "id": 20,
       "defendant": "St. Dalfour International Incorporated",
       "website": "stdalfourinternationalincorporated.com",
       "industry": "Consumer Products",
@@ -384,7 +404,7 @@
       "coldOpen": ""
     },
     {
-      "id": 20,
+      "id": 21,
       "defendant": "Alani Nutrition LLC",
       "website": "alaninutrition.com",
       "industry": "Food & Nutrition",
@@ -404,7 +424,7 @@
       "coldOpen": ""
     },
     {
-      "id": 21,
+      "id": 22,
       "defendant": "CEC Entertainment (Florida) LLC",
       "website": "cecentertainmentflorida.com",
       "industry": "Consumer Products",
@@ -424,7 +444,7 @@
       "coldOpen": ""
     },
     {
-      "id": 22,
+      "id": 23,
       "defendant": "Oceans Balance",
       "website": "oceansbalance.com",
       "industry": "Footwear & Apparel",
@@ -444,7 +464,7 @@
       "coldOpen": ""
     },
     {
-      "id": 23,
+      "id": 24,
       "defendant": "Jshealth Vitamins Us, Inc.",
       "website": "jshealthvitaminsus.com",
       "industry": "Food & Nutrition",
@@ -464,7 +484,7 @@
       "coldOpen": ""
     },
     {
-      "id": 24,
+      "id": 25,
       "defendant": "Hometown Food Company",
       "website": "hometownfoodcompany.com",
       "industry": "Food & Nutrition",
@@ -482,6 +502,26 @@
       "hasIronyBadge": false,
       "whyItMatters": "Food & Nutrition company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
       "coldOpen": ""
+    },
+    {
+      "id": 26,
+      "defendant": "Consolidated Restaurant Operations, Inc.",
+      "website": "consolidatedrestaurantoperations.com",
+      "industry": "Food Service",
+      "caseName": "Drummond v. Consolidated Restaurant Operations, Inc.",
+      "plaintiff": "Drummond",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "3:26-cv-00764",
+      "dateFiled": "2026-04-06",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Food Service company sued for ADA website accessibility in M.D. Florida. Drummond is a known serial website-ADA filer.",
+      "coldOpen": ""
     }
   ],
   "serialFilers": [
@@ -494,19 +534,19 @@
       ]
     },
     {
+      "name": "Espinal",
+      "casesThisMonth": 7,
+      "typicalTargets": "Beauty, food products, specialty consumer brands",
+      "courts": [
+        "NYSD"
+      ]
+    },
+    {
       "name": "Alvear",
       "casesThisMonth": 7,
       "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
-      ]
-    },
-    {
-      "name": "Espinal",
-      "casesThisMonth": 5,
-      "typicalTargets": "Beauty, food products, specialty consumer brands",
-      "courts": [
-        "NYSD"
       ]
     },
     {
@@ -522,12 +562,12 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 57
+      "cases": 55
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 37
+      "cases": 40
     },
     {
       "court": "C.D. California",
@@ -557,7 +597,7 @@
     {
       "court": "GAND",
       "courtId": "gand",
-      "cases": 5
+      "cases": 4
     },
     {
       "court": "PAED",
