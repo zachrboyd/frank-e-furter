@@ -1,28 +1,8 @@
 {
-  "lastUpdated": "2026-04-14T15:03:41Z",
+  "lastUpdated": "2026-04-15T14:54:35Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "H&M Fashion USA, Inc",
-      "website": "hmfashionusa.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. H&M Fashion USA, Inc",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-00753",
-      "dateFiled": "2026-04-07",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
       "defendant": "Louisiana Fish Fry Products, Ltd.",
       "website": "louisianafishfryproducts.com",
       "industry": "Food & Nutrition",
@@ -42,7 +22,7 @@
       "coldOpen": ""
     },
     {
-      "id": 3,
+      "id": 2,
       "defendant": "The Finish Line, Inc.",
       "website": "thefinishline.com",
       "industry": "Consumer Products",
@@ -63,7 +43,7 @@
       "briefTheAE": "The Finish Line, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 4,
+      "id": 3,
       "defendant": "Paris Presents Incorporated",
       "website": "parispresentsincorporated.com",
       "industry": "Consumer Products",
@@ -83,7 +63,7 @@
       "coldOpen": ""
     },
     {
-      "id": 5,
+      "id": 4,
       "defendant": "LT Foods Americas, Inc.",
       "website": "ltfoodsamericas.com",
       "industry": "Food & Nutrition",
@@ -103,7 +83,7 @@
       "coldOpen": ""
     },
     {
-      "id": 6,
+      "id": 5,
       "defendant": "Kennedy Rice Mill, LLC",
       "website": "kennedyricemill.com",
       "industry": "Consumer Products",
@@ -123,7 +103,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 6,
       "defendant": "Alchemee LLC",
       "website": "alchemee.com",
       "industry": "Consumer Products",
@@ -143,7 +123,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 7,
       "defendant": "Naos USA, Inc.",
       "website": "naosusa.com",
       "industry": "Consumer Products",
@@ -163,7 +143,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
+      "id": 8,
       "defendant": "Allagash Brewing Company",
       "website": "allagashbrewingcompany.com",
       "industry": "Consumer Products",
@@ -183,27 +163,7 @@
       "coldOpen": ""
     },
     {
-      "id": 10,
-      "defendant": "Shoe Show, Inc.",
-      "website": "shoeshow.com",
-      "industry": "Footwear & Apparel",
-      "caseName": "Alvear v. Shoe Show, Inc.",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-00628",
-      "dateFiled": "2026-03-23",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Footwear & Apparel company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 11,
+      "id": 9,
       "defendant": "Capital City, LLC",
       "website": "capitalcity.com",
       "industry": "Consumer Products",
@@ -223,7 +183,7 @@
       "coldOpen": ""
     },
     {
-      "id": 12,
+      "id": 10,
       "defendant": "Nester Hosiery, LLC",
       "website": "nesterhosiery.com",
       "industry": "Footwear & Apparel",
@@ -243,7 +203,7 @@
       "coldOpen": ""
     },
     {
-      "id": 13,
+      "id": 11,
       "defendant": "Biggs And Featherbelle, LLC",
       "website": "biggsandfeatherbelle.com",
       "industry": "Consumer Products",
@@ -263,7 +223,7 @@
       "coldOpen": ""
     },
     {
-      "id": 14,
+      "id": 12,
       "defendant": "G. L. Mezzetta, Inc.",
       "website": "glmezzetta.com",
       "industry": "Consumer Products",
@@ -283,7 +243,7 @@
       "coldOpen": ""
     },
     {
-      "id": 15,
+      "id": 13,
       "defendant": "Converse Inc.",
       "website": "converse.com",
       "industry": "Consumer Products",
@@ -303,7 +263,7 @@
       "coldOpen": ""
     },
     {
-      "id": 16,
+      "id": 14,
       "defendant": "CBP Orlando, LLC",
       "website": "cbporlando.com",
       "industry": "Consumer Products",
@@ -323,7 +283,7 @@
       "coldOpen": ""
     },
     {
-      "id": 17,
+      "id": 15,
       "defendant": "Torchbearer Sauces, LLC",
       "website": "torchbearersauces.com",
       "industry": "Food & Nutrition",
@@ -343,7 +303,7 @@
       "coldOpen": ""
     },
     {
-      "id": 18,
+      "id": 16,
       "defendant": "Arhaus,LLC",
       "website": "arhaus.com",
       "industry": "Consumer Products",
@@ -363,7 +323,7 @@
       "coldOpen": ""
     },
     {
-      "id": 19,
+      "id": 17,
       "defendant": "New Balance Athletics, Inc.",
       "website": "newbalanceathletics.com",
       "industry": "Footwear & Apparel",
@@ -384,7 +344,7 @@
       "briefTheAE": "New Balance Athletics, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 20,
+      "id": 18,
       "defendant": "St. Dalfour International Incorporated",
       "website": "stdalfourinternationalincorporated.com",
       "industry": "Consumer Products",
@@ -404,7 +364,7 @@
       "coldOpen": ""
     },
     {
-      "id": 21,
+      "id": 19,
       "defendant": "Alani Nutrition LLC",
       "website": "alaninutrition.com",
       "industry": "Food & Nutrition",
@@ -424,7 +384,7 @@
       "coldOpen": ""
     },
     {
-      "id": 22,
+      "id": 20,
       "defendant": "CEC Entertainment (Florida) LLC",
       "website": "cecentertainmentflorida.com",
       "industry": "Consumer Products",
@@ -444,7 +404,7 @@
       "coldOpen": ""
     },
     {
-      "id": 23,
+      "id": 21,
       "defendant": "Oceans Balance",
       "website": "oceansbalance.com",
       "industry": "Footwear & Apparel",
@@ -464,7 +424,7 @@
       "coldOpen": ""
     },
     {
-      "id": 24,
+      "id": 22,
       "defendant": "Jshealth Vitamins Us, Inc.",
       "website": "jshealthvitaminsus.com",
       "industry": "Food & Nutrition",
@@ -484,7 +444,7 @@
       "coldOpen": ""
     },
     {
-      "id": 25,
+      "id": 23,
       "defendant": "Hometown Food Company",
       "website": "hometownfoodcompany.com",
       "industry": "Food & Nutrition",
@@ -504,7 +464,7 @@
       "coldOpen": ""
     },
     {
-      "id": 26,
+      "id": 24,
       "defendant": "Consolidated Restaurant Operations, Inc.",
       "website": "consolidatedrestaurantoperations.com",
       "industry": "Food Service",
@@ -521,6 +481,26 @@
       "verified": false,
       "hasIronyBadge": false,
       "whyItMatters": "Food Service company sued for ADA website accessibility in M.D. Florida. Drummond is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 25,
+      "defendant": "H&M Fashion USA, Inc",
+      "website": "hmfashionusa.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. H&M Fashion USA, Inc",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-00753",
+      "dateFiled": "2026-04-07",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
       "coldOpen": ""
     }
   ],
@@ -543,7 +523,7 @@
     },
     {
       "name": "Alvear",
-      "casesThisMonth": 7,
+      "casesThisMonth": 6,
       "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
@@ -572,12 +552,12 @@
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 34
+      "cases": 35
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 16
+      "cases": 15
     },
     {
       "court": "E.D. Wisconsin",
@@ -587,17 +567,12 @@
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 8
+      "cases": 11
     },
     {
       "court": "WIWD",
       "courtId": "wiwd",
       "cases": 6
-    },
-    {
-      "court": "GAND",
-      "courtId": "gand",
-      "cases": 4
     },
     {
       "court": "PAED",
@@ -607,6 +582,11 @@
     {
       "court": "MOED",
       "courtId": "moed",
+      "cases": 3
+    },
+    {
+      "court": "GAND",
+      "courtId": "gand",
       "cases": 3
     }
   ]
