@@ -1,89 +1,8 @@
 {
-  "lastUpdated": "2026-04-15T14:54:35Z",
+  "lastUpdated": "2026-04-16T15:15:26Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Louisiana Fish Fry Products, Ltd.",
-      "website": "louisianafishfryproducts.com",
-      "industry": "Food & Nutrition",
-      "caseName": "Espinal v. Louisiana Fish Fry Products, Ltd.",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-02892",
-      "dateFiled": "2026-04-08",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Food & Nutrition company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
-      "defendant": "The Finish Line, Inc.",
-      "website": "thefinishline.com",
-      "industry": "Consumer Products",
-      "caseName": "Drummond v. The Finish Line, Inc.",
-      "plaintiff": "Drummond",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "3:26-cv-00795",
-      "dateFiled": "2026-04-08",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": true,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Drummond is a known serial website-ADA filer.",
-      "coldOpen": "",
-      "briefTheAE": "The Finish Line, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
-    },
-    {
-      "id": 3,
-      "defendant": "Paris Presents Incorporated",
-      "website": "parispresentsincorporated.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. Paris Presents Incorporated",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-02864",
-      "dateFiled": "2026-04-08",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 4,
-      "defendant": "LT Foods Americas, Inc.",
-      "website": "ltfoodsamericas.com",
-      "industry": "Food & Nutrition",
-      "caseName": "Espinal v. LT Foods Americas, Inc.",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-02863",
-      "dateFiled": "2026-04-08",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Food & Nutrition company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 5,
       "defendant": "Kennedy Rice Mill, LLC",
       "website": "kennedyricemill.com",
       "industry": "Consumer Products",
@@ -103,7 +22,7 @@
       "coldOpen": ""
     },
     {
-      "id": 6,
+      "id": 2,
       "defendant": "Alchemee LLC",
       "website": "alchemee.com",
       "industry": "Consumer Products",
@@ -123,7 +42,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 3,
       "defendant": "Naos USA, Inc.",
       "website": "naosusa.com",
       "industry": "Consumer Products",
@@ -143,7 +62,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 4,
       "defendant": "Allagash Brewing Company",
       "website": "allagashbrewingcompany.com",
       "industry": "Consumer Products",
@@ -163,67 +82,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
-      "defendant": "Capital City, LLC",
-      "website": "capitalcity.com",
-      "industry": "Consumer Products",
-      "caseName": "Knowles v. Capital City, LLC",
-      "plaintiff": "Knowles",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-02370",
-      "dateFiled": "2026-03-24",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 10,
-      "defendant": "Nester Hosiery, LLC",
-      "website": "nesterhosiery.com",
-      "industry": "Footwear & Apparel",
-      "caseName": "Knowles v. Nester Hosiery, LLC",
-      "plaintiff": "Knowles",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-02371",
-      "dateFiled": "2026-03-24",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Footwear & Apparel company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 11,
-      "defendant": "Biggs And Featherbelle, LLC",
-      "website": "biggsandfeatherbelle.com",
-      "industry": "Consumer Products",
-      "caseName": "Knowles v. Biggs And Featherbelle, LLC",
-      "plaintiff": "Knowles",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-02369",
-      "dateFiled": "2026-03-24",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 12,
+      "id": 5,
       "defendant": "G. L. Mezzetta, Inc.",
       "website": "glmezzetta.com",
       "industry": "Consumer Products",
@@ -243,7 +102,7 @@
       "coldOpen": ""
     },
     {
-      "id": 13,
+      "id": 6,
       "defendant": "Converse Inc.",
       "website": "converse.com",
       "industry": "Consumer Products",
@@ -263,7 +122,7 @@
       "coldOpen": ""
     },
     {
-      "id": 14,
+      "id": 7,
       "defendant": "CBP Orlando, LLC",
       "website": "cbporlando.com",
       "industry": "Consumer Products",
@@ -283,7 +142,7 @@
       "coldOpen": ""
     },
     {
-      "id": 15,
+      "id": 8,
       "defendant": "Torchbearer Sauces, LLC",
       "website": "torchbearersauces.com",
       "industry": "Food & Nutrition",
@@ -303,7 +162,7 @@
       "coldOpen": ""
     },
     {
-      "id": 16,
+      "id": 9,
       "defendant": "Arhaus,LLC",
       "website": "arhaus.com",
       "industry": "Consumer Products",
@@ -323,7 +182,7 @@
       "coldOpen": ""
     },
     {
-      "id": 17,
+      "id": 10,
       "defendant": "New Balance Athletics, Inc.",
       "website": "newbalanceathletics.com",
       "industry": "Footwear & Apparel",
@@ -344,7 +203,7 @@
       "briefTheAE": "New Balance Athletics, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 18,
+      "id": 11,
       "defendant": "St. Dalfour International Incorporated",
       "website": "stdalfourinternationalincorporated.com",
       "industry": "Consumer Products",
@@ -364,7 +223,7 @@
       "coldOpen": ""
     },
     {
-      "id": 19,
+      "id": 12,
       "defendant": "Alani Nutrition LLC",
       "website": "alaninutrition.com",
       "industry": "Food & Nutrition",
@@ -384,7 +243,7 @@
       "coldOpen": ""
     },
     {
-      "id": 20,
+      "id": 13,
       "defendant": "CEC Entertainment (Florida) LLC",
       "website": "cecentertainmentflorida.com",
       "industry": "Consumer Products",
@@ -404,7 +263,7 @@
       "coldOpen": ""
     },
     {
-      "id": 21,
+      "id": 14,
       "defendant": "Oceans Balance",
       "website": "oceansbalance.com",
       "industry": "Footwear & Apparel",
@@ -424,7 +283,7 @@
       "coldOpen": ""
     },
     {
-      "id": 22,
+      "id": 15,
       "defendant": "Jshealth Vitamins Us, Inc.",
       "website": "jshealthvitaminsus.com",
       "industry": "Food & Nutrition",
@@ -444,7 +303,7 @@
       "coldOpen": ""
     },
     {
-      "id": 23,
+      "id": 16,
       "defendant": "Hometown Food Company",
       "website": "hometownfoodcompany.com",
       "industry": "Food & Nutrition",
@@ -464,7 +323,7 @@
       "coldOpen": ""
     },
     {
-      "id": 24,
+      "id": 17,
       "defendant": "Consolidated Restaurant Operations, Inc.",
       "website": "consolidatedrestaurantoperations.com",
       "industry": "Food Service",
@@ -484,7 +343,7 @@
       "coldOpen": ""
     },
     {
-      "id": 25,
+      "id": 18,
       "defendant": "H&M Fashion USA, Inc",
       "website": "hmfashionusa.com",
       "industry": "Consumer Products",
@@ -502,12 +361,93 @@
       "hasIronyBadge": false,
       "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
       "coldOpen": ""
+    },
+    {
+      "id": 19,
+      "defendant": "Louisiana Fish Fry Products, Ltd.",
+      "website": "louisianafishfryproducts.com",
+      "industry": "Food & Nutrition",
+      "caseName": "Espinal v. Louisiana Fish Fry Products, Ltd.",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-02892",
+      "dateFiled": "2026-04-08",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Food & Nutrition company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 20,
+      "defendant": "The Finish Line, Inc.",
+      "website": "thefinishline.com",
+      "industry": "Consumer Products",
+      "caseName": "Drummond v. The Finish Line, Inc.",
+      "plaintiff": "Drummond",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "3:26-cv-00795",
+      "dateFiled": "2026-04-08",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": true,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Drummond is a known serial website-ADA filer.",
+      "coldOpen": "",
+      "briefTheAE": "The Finish Line, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
+    },
+    {
+      "id": 21,
+      "defendant": "Paris Presents Incorporated",
+      "website": "parispresentsincorporated.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. Paris Presents Incorporated",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-02864",
+      "dateFiled": "2026-04-08",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 22,
+      "defendant": "LT Foods Americas, Inc.",
+      "website": "ltfoodsamericas.com",
+      "industry": "Food & Nutrition",
+      "caseName": "Espinal v. LT Foods Americas, Inc.",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-02863",
+      "dateFiled": "2026-04-08",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Food & Nutrition company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
     }
   ],
   "serialFilers": [
     {
       "name": "Knowles",
-      "casesThisMonth": 10,
+      "casesThisMonth": 7,
       "typicalTargets": "DTC ecommerce brands — food, supplements, hosiery",
       "courts": [
         "NYSD"
@@ -547,12 +487,17 @@
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 40
+      "cases": 42
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 35
+      "cases": 28
+    },
+    {
+      "court": "E.D. Wisconsin",
+      "courtId": "wied",
+      "cases": 17
     },
     {
       "court": "M.D. Florida",
@@ -560,14 +505,9 @@
       "cases": 15
     },
     {
-      "court": "E.D. Wisconsin",
-      "courtId": "wied",
-      "cases": 14
-    },
-    {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 11
+      "cases": 12
     },
     {
       "court": "WIWD",
@@ -580,14 +520,14 @@
       "cases": 3
     },
     {
-      "court": "MOED",
-      "courtId": "moed",
-      "cases": 3
+      "court": "MND",
+      "courtId": "mnd",
+      "cases": 2
     },
     {
-      "court": "GAND",
-      "courtId": "gand",
-      "cases": 3
+      "court": "TXSD",
+      "courtId": "txsd",
+      "cases": 2
     }
   ]
 }
