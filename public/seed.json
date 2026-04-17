@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T15:15:26Z",
+  "lastUpdated": "2026-04-17T12:10:55Z",
   "leads": [
     {
       "id": 1,
@@ -487,12 +487,12 @@
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 42
+      "cases": 40
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 28
+      "cases": 29
     },
     {
       "court": "E.D. Wisconsin",
