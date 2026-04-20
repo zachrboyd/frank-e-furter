@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T11:51:57Z",
+  "lastUpdated": "2026-04-20T15:05:39Z",
   "leads": [
     {
       "id": 1,
@@ -43,86 +43,6 @@
     },
     {
       "id": 3,
-      "defendant": "G. L. Mezzetta, Inc.",
-      "website": "glmezzetta.com",
-      "industry": "Consumer Products",
-      "caseName": "Knowles v. G. L. Mezzetta, Inc.",
-      "plaintiff": "Knowles",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-02515",
-      "dateFiled": "2026-03-26",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 4,
-      "defendant": "Converse Inc.",
-      "website": "converse.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. Converse Inc.",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-00664",
-      "dateFiled": "2026-03-26",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 5,
-      "defendant": "CBP Orlando, LLC",
-      "website": "cbporlando.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. CBP Orlando, LLC",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-00677",
-      "dateFiled": "2026-03-27",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 6,
-      "defendant": "Torchbearer Sauces, LLC",
-      "website": "torchbearersauces.com",
-      "industry": "Food & Nutrition",
-      "caseName": "Knowles v. Torchbearer Sauces, LLC",
-      "plaintiff": "Knowles",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-02516",
-      "dateFiled": "2026-03-27",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Food & Nutrition company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 7,
       "defendant": "Arhaus,LLC",
       "website": "arhaus.com",
       "industry": "Consumer Products",
@@ -142,7 +62,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 4,
       "defendant": "New Balance Athletics, Inc.",
       "website": "newbalanceathletics.com",
       "industry": "Footwear & Apparel",
@@ -163,7 +83,7 @@
       "briefTheAE": "New Balance Athletics, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 9,
+      "id": 5,
       "defendant": "St. Dalfour International Incorporated",
       "website": "stdalfourinternationalincorporated.com",
       "industry": "Consumer Products",
@@ -183,7 +103,7 @@
       "coldOpen": ""
     },
     {
-      "id": 10,
+      "id": 6,
       "defendant": "Alani Nutrition LLC",
       "website": "alaninutrition.com",
       "industry": "Food & Nutrition",
@@ -203,7 +123,7 @@
       "coldOpen": ""
     },
     {
-      "id": 11,
+      "id": 7,
       "defendant": "CEC Entertainment (Florida) LLC",
       "website": "cecentertainmentflorida.com",
       "industry": "Consumer Products",
@@ -223,7 +143,7 @@
       "coldOpen": ""
     },
     {
-      "id": 12,
+      "id": 8,
       "defendant": "Oceans Balance",
       "website": "oceansbalance.com",
       "industry": "Footwear & Apparel",
@@ -243,7 +163,7 @@
       "coldOpen": ""
     },
     {
-      "id": 13,
+      "id": 9,
       "defendant": "Jshealth Vitamins Us, Inc.",
       "website": "jshealthvitaminsus.com",
       "industry": "Food & Nutrition",
@@ -263,7 +183,7 @@
       "coldOpen": ""
     },
     {
-      "id": 14,
+      "id": 10,
       "defendant": "Hometown Food Company",
       "website": "hometownfoodcompany.com",
       "industry": "Food & Nutrition",
@@ -283,7 +203,7 @@
       "coldOpen": ""
     },
     {
-      "id": 15,
+      "id": 11,
       "defendant": "Consolidated Restaurant Operations, Inc.",
       "website": "consolidatedrestaurantoperations.com",
       "industry": "Food Service",
@@ -303,7 +223,7 @@
       "coldOpen": ""
     },
     {
-      "id": 16,
+      "id": 12,
       "defendant": "H&M Fashion USA, Inc",
       "website": "hmfashionusa.com",
       "industry": "Consumer Products",
@@ -323,7 +243,7 @@
       "coldOpen": ""
     },
     {
-      "id": 17,
+      "id": 13,
       "defendant": "Louisiana Fish Fry Products, Ltd.",
       "website": "louisianafishfryproducts.com",
       "industry": "Food & Nutrition",
@@ -343,7 +263,7 @@
       "coldOpen": ""
     },
     {
-      "id": 18,
+      "id": 14,
       "defendant": "The Finish Line, Inc.",
       "website": "thefinishline.com",
       "industry": "Consumer Products",
@@ -364,7 +284,7 @@
       "briefTheAE": "The Finish Line, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 19,
+      "id": 15,
       "defendant": "Paris Presents Incorporated",
       "website": "parispresentsincorporated.com",
       "industry": "Consumer Products",
@@ -384,7 +304,7 @@
       "coldOpen": ""
     },
     {
-      "id": 20,
+      "id": 16,
       "defendant": "LT Foods Americas, Inc.",
       "website": "ltfoodsamericas.com",
       "industry": "Food & Nutrition",
@@ -404,7 +324,7 @@
       "coldOpen": ""
     },
     {
-      "id": 21,
+      "id": 17,
       "defendant": "Kennedy Rice Mill, LLC",
       "website": "kennedyricemill.com",
       "industry": "Consumer Products",
@@ -424,7 +344,7 @@
       "coldOpen": ""
     },
     {
-      "id": 22,
+      "id": 18,
       "defendant": "Alchemee LLC",
       "website": "alchemee.com",
       "industry": "Consumer Products",
@@ -446,14 +366,6 @@
   ],
   "serialFilers": [
     {
-      "name": "Knowles",
-      "casesThisMonth": 7,
-      "typicalTargets": "DTC ecommerce brands — food, supplements, hosiery",
-      "courts": [
-        "NYSD"
-      ]
-    },
-    {
       "name": "Espinal",
       "casesThisMonth": 7,
       "typicalTargets": "Beauty, food products, specialty consumer brands",
@@ -462,8 +374,16 @@
       ]
     },
     {
+      "name": "Knowles",
+      "casesThisMonth": 5,
+      "typicalTargets": "DTC ecommerce brands — food, supplements, hosiery",
+      "courts": [
+        "NYSD"
+      ]
+    },
+    {
       "name": "Alvear",
-      "casesThisMonth": 6,
+      "casesThisMonth": 4,
       "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
@@ -482,37 +402,32 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 60
-    },
-    {
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "cases": 38
+      "cases": 61
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 30
+      "cases": 38
     },
     {
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "cases": 17
-    },
-    {
-      "court": "E.D. Wisconsin",
-      "courtId": "wied",
-      "cases": 15
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "cases": 35
     },
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 14
+      "cases": 18
     },
     {
-      "court": "WIWD",
-      "courtId": "wiwd",
-      "cases": 4
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "cases": 16
+    },
+    {
+      "court": "E.D. Wisconsin",
+      "courtId": "wied",
+      "cases": 9
     },
     {
       "court": "PAED",
@@ -520,13 +435,18 @@
       "cases": 3
     },
     {
-      "court": "TXSD",
-      "courtId": "txsd",
-      "cases": 2
+      "court": "WIWD",
+      "courtId": "wiwd",
+      "cases": 3
     },
     {
       "court": "MOED",
       "courtId": "moed",
+      "cases": 2
+    },
+    {
+      "court": "CAND",
+      "courtId": "cand",
       "cases": 2
     }
   ]
