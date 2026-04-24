@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-04-22T15:00:30Z",
+  "lastUpdated": "2026-04-24T14:54:37Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "CEC Entertainment (Florida) LLC",
-      "website": "cecentertainmentflorida.com",
+      "defendant": "Big Ten Management LLC",
+      "website": "bigtenmanagement.com",
       "industry": "Consumer Products",
-      "caseName": "Alvear v. CEC Entertainment (Florida) LLC",
-      "plaintiff": "Alvear",
+      "caseName": "Espinal v. Big Ten Management LLC",
+      "plaintiff": "Espinal",
       "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-00718",
-      "dateFiled": "2026-04-01",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "0:26-cv-61193",
+      "dateFiled": "2026-04-22",
       "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
+      "confidenceScore": 95,
       "enterprise": false,
       "verified": false,
       "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
       "coldOpen": ""
     },
     {
@@ -226,18 +226,10 @@
   "serialFilers": [
     {
       "name": "Espinal",
-      "casesThisMonth": 7,
+      "casesThisMonth": 8,
       "typicalTargets": "Beauty, food products, specialty consumer brands",
       "courts": [
         "NYSD"
-      ]
-    },
-    {
-      "name": "Alvear",
-      "casesThisMonth": 2,
-      "typicalTargets": "Footwear retailers and food service brands",
-      "courts": [
-        "FLMD"
       ]
     },
     {
@@ -247,23 +239,31 @@
       "courts": [
         "FLMD"
       ]
+    },
+    {
+      "name": "Alvear",
+      "casesThisMonth": 1,
+      "typicalTargets": "Footwear retailers and food service brands",
+      "courts": [
+        "FLMD"
+      ]
     }
   ],
   "districtStats": [
     {
-      "court": "C.D. California",
-      "courtId": "cacd",
-      "cases": 49
-    },
-    {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 48
+      "cases": 53
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 39
+      "cases": 42
+    },
+    {
+      "court": "C.D. California",
+      "courtId": "cacd",
+      "cases": 38
     },
     {
       "court": "NYED",
@@ -273,7 +273,7 @@
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 12
+      "cases": 9
     },
     {
       "court": "E.D. Wisconsin",
@@ -283,6 +283,11 @@
     {
       "court": "PAED",
       "courtId": "paed",
+      "cases": 7
+    },
+    {
+      "court": "MAD",
+      "courtId": "mad",
       "cases": 3
     },
     {
@@ -293,11 +298,6 @@
     {
       "court": "WIWD",
       "courtId": "wiwd",
-      "cases": 2
-    },
-    {
-      "court": "MOED",
-      "courtId": "moed",
       "cases": 2
     }
   ]
