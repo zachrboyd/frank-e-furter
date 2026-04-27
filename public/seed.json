@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T11:59:45Z",
+  "lastUpdated": "2026-04-27T16:00:31Z",
   "leads": [
     {
       "id": 1,
@@ -23,26 +23,6 @@
     },
     {
       "id": 2,
-      "defendant": "Consolidated Restaurant Operations, Inc.",
-      "website": "consolidatedrestaurantoperations.com",
-      "industry": "Food Service",
-      "caseName": "Drummond v. Consolidated Restaurant Operations, Inc.",
-      "plaintiff": "Drummond",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "3:26-cv-00764",
-      "dateFiled": "2026-04-06",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Food Service company sued for ADA website accessibility in M.D. Florida. Drummond is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 3,
       "defendant": "H&M Fashion USA, Inc",
       "website": "hmfashionusa.com",
       "industry": "Consumer Products",
@@ -62,7 +42,7 @@
       "coldOpen": ""
     },
     {
-      "id": 4,
+      "id": 3,
       "defendant": "Louisiana Fish Fry Products, Ltd.",
       "website": "louisianafishfryproducts.com",
       "industry": "Food & Nutrition",
@@ -82,7 +62,7 @@
       "coldOpen": ""
     },
     {
-      "id": 5,
+      "id": 4,
       "defendant": "The Finish Line, Inc.",
       "website": "thefinishline.com",
       "industry": "Consumer Products",
@@ -103,7 +83,7 @@
       "briefTheAE": "The Finish Line, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 6,
+      "id": 5,
       "defendant": "Paris Presents Incorporated",
       "website": "parispresentsincorporated.com",
       "industry": "Consumer Products",
@@ -123,7 +103,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 6,
       "defendant": "LT Foods Americas, Inc.",
       "website": "ltfoodsamericas.com",
       "industry": "Food & Nutrition",
@@ -143,7 +123,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 7,
       "defendant": "Kennedy Rice Mill, LLC",
       "website": "kennedyricemill.com",
       "industry": "Consumer Products",
@@ -163,7 +143,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
+      "id": 8,
       "defendant": "Alchemee LLC",
       "website": "alchemee.com",
       "industry": "Consumer Products",
@@ -183,7 +163,7 @@
       "coldOpen": ""
     },
     {
-      "id": 10,
+      "id": 9,
       "defendant": "Naos USA, Inc.",
       "website": "naosusa.com",
       "industry": "Consumer Products",
@@ -203,7 +183,7 @@
       "coldOpen": ""
     },
     {
-      "id": 11,
+      "id": 10,
       "defendant": "Allagash Brewing Company",
       "website": "allagashbrewingcompany.com",
       "industry": "Consumer Products",
@@ -233,17 +213,17 @@
       ]
     },
     {
-      "name": "Drummond",
-      "casesThisMonth": 2,
-      "typicalTargets": "Major retail ecommerce operations",
+      "name": "Alvear",
+      "casesThisMonth": 1,
+      "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
       ]
     },
     {
-      "name": "Alvear",
+      "name": "Drummond",
       "casesThisMonth": 1,
-      "typicalTargets": "Footwear retailers and food service brands",
+      "typicalTargets": "Major retail ecommerce operations",
       "courts": [
         "FLMD"
       ]
@@ -253,27 +233,27 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 53
+      "cases": 50
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 42
+      "cases": 47
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 38
+      "cases": 33
     },
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 23
+      "cases": 24
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 9
+      "cases": 13
     },
     {
       "court": "E.D. Wisconsin",
