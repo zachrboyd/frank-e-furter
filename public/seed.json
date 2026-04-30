@@ -1,8 +1,48 @@
 {
-  "lastUpdated": "2026-04-29T16:16:29Z",
+  "lastUpdated": "2026-04-30T15:57:41Z",
   "leads": [
     {
       "id": 1,
+      "defendant": "Table 26 LTD",
+      "website": "table26.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. Table 26 LTD",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-80497",
+      "dateFiled": "2026-04-29",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 2,
+      "defendant": "The Rod Room, LLC",
+      "website": "therodroom.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. The Rod Room, LLC",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-80498",
+      "dateFiled": "2026-04-29",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 3,
       "defendant": "Big Ten Management LLC",
       "website": "bigtenmanagement.com",
       "industry": "Consumer Products",
@@ -14,51 +54,11 @@
       "docketNumber": "0:26-cv-61193",
       "dateFiled": "2026-04-22",
       "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
+      "confidenceScore": 85,
       "enterprise": false,
       "verified": false,
       "hasIronyBadge": false,
       "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
-      "defendant": "Naos USA, Inc.",
-      "website": "naosusa.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. Naos USA, Inc.",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-03028",
-      "dateFiled": "2026-04-14",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 3,
-      "defendant": "Allagash Brewing Company",
-      "website": "allagashbrewingcompany.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. Allagash Brewing Company",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-03027",
-      "dateFiled": "2026-04-14",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
       "coldOpen": ""
     }
   ],
@@ -76,22 +76,22 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 52
+      "cases": 53
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 46
+      "cases": 44
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 45
+      "cases": 43
     },
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 21
+      "cases": 20
     },
     {
       "court": "M.D. Florida",
@@ -101,7 +101,12 @@
     {
       "court": "E.D. Wisconsin",
       "courtId": "wied",
-      "cases": 10
+      "cases": 12
+    },
+    {
+      "court": "ILND",
+      "courtId": "ilnd",
+      "cases": 2
     },
     {
       "court": "OHND",
@@ -109,18 +114,13 @@
       "cases": 2
     },
     {
+      "court": "TXSD",
+      "courtId": "txsd",
+      "cases": 1
+    },
+    {
       "court": "CTD",
       "courtId": "ctd",
-      "cases": 1
-    },
-    {
-      "court": "ILND",
-      "courtId": "ilnd",
-      "cases": 1
-    },
-    {
-      "court": "MAD",
-      "courtId": "mad",
       "cases": 1
     }
   ]
