@@ -1,48 +1,28 @@
 {
-  "lastUpdated": "2026-05-04T16:21:02Z",
+  "lastUpdated": "2026-05-07T16:25:28Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Table 26 LTD",
-      "website": "table26.com",
+      "defendant": "West Marine Products, Inc.",
+      "website": "westmarineproducts.com",
       "industry": "Consumer Products",
-      "caseName": "Espinal v. Table 26 LTD",
-      "plaintiff": "Espinal",
+      "caseName": "Alvear v. West Marine Products, Inc.",
+      "plaintiff": "Alvear",
       "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-80497",
-      "dateFiled": "2026-04-29",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-00957",
+      "dateFiled": "2026-05-01",
       "docketUrl": "https://www.courtlistener.com",
       "confidenceScore": 95,
       "enterprise": false,
       "verified": false,
       "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
       "coldOpen": ""
     },
     {
       "id": 2,
-      "defendant": "The Rod Room, LLC",
-      "website": "therodroom.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. The Rod Room, LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-80498",
-      "dateFiled": "2026-04-29",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 3,
       "defendant": "Big Ten Management LLC",
       "website": "bigtenmanagement.com",
       "industry": "Consumer Products",
@@ -60,6 +40,46 @@
       "hasIronyBadge": false,
       "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
       "coldOpen": ""
+    },
+    {
+      "id": 3,
+      "defendant": "Table 26 LTD",
+      "website": "table26.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. Table 26 LTD",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-80497",
+      "dateFiled": "2026-04-29",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 4,
+      "defendant": "The Rod Room, LLC",
+      "website": "therodroom.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. The Rod Room, LLC",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-80498",
+      "dateFiled": "2026-04-29",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
     }
   ],
   "serialFilers": [
@@ -70,33 +90,36 @@
       "courts": [
         "NYSD"
       ]
+    },
+    {
+      "name": "Alvear",
+      "casesThisMonth": 1,
+      "typicalTargets": "Footwear retailers and food service brands",
+      "courts": [
+        "FLMD"
+      ]
     }
   ],
   "districtStats": [
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 57
-    },
-    {
-      "court": "C.D. California",
-      "courtId": "cacd",
-      "cases": 44
+      "cases": 58
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 41
+      "cases": 47
+    },
+    {
+      "court": "C.D. California",
+      "courtId": "cacd",
+      "cases": 38
     },
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 17
-    },
-    {
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "cases": 13
+      "cases": 12
     },
     {
       "court": "E.D. Wisconsin",
@@ -104,24 +127,29 @@
       "cases": 12
     },
     {
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "cases": 11
+    },
+    {
       "court": "ILND",
       "courtId": "ilnd",
+      "cases": 4
+    },
+    {
+      "court": "MOED",
+      "courtId": "moed",
+      "cases": 2
+    },
+    {
+      "court": "TXSD",
+      "courtId": "txsd",
       "cases": 2
     },
     {
       "court": "CAND",
       "courtId": "cand",
       "cases": 2
-    },
-    {
-      "court": "OHND",
-      "courtId": "ohnd",
-      "cases": 2
-    },
-    {
-      "court": "VAED",
-      "courtId": "vaed",
-      "cases": 1
     }
   ]
 }
