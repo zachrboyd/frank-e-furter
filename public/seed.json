@@ -1,28 +1,8 @@
 {
-  "lastUpdated": "2026-05-08T15:10:18Z",
+  "lastUpdated": "2026-05-09T14:19:31Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "West Marine Products, Inc.",
-      "website": "westmarineproducts.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. West Marine Products, Inc.",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-00957",
-      "dateFiled": "2026-05-01",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
       "defendant": "Big Ten Management LLC",
       "website": "bigtenmanagement.com",
       "industry": "Consumer Products",
@@ -42,7 +22,7 @@
       "coldOpen": ""
     },
     {
-      "id": 3,
+      "id": 2,
       "defendant": "Table 26 LTD",
       "website": "table26.com",
       "industry": "Consumer Products",
@@ -62,7 +42,7 @@
       "coldOpen": ""
     },
     {
-      "id": 4,
+      "id": 3,
       "defendant": "The Rod Room, LLC",
       "website": "therodroom.com",
       "industry": "Consumer Products",
@@ -79,6 +59,26 @@
       "verified": false,
       "hasIronyBadge": false,
       "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 4,
+      "defendant": "West Marine Products, Inc.",
+      "website": "westmarineproducts.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. West Marine Products, Inc.",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-00957",
+      "dateFiled": "2026-05-01",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
       "coldOpen": ""
     }
   ],
@@ -104,22 +104,22 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 57
+      "cases": 55
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 48
+      "cases": 46
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 38
+      "cases": 39
     },
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 12
+      "cases": 13
     },
     {
       "court": "E.D. Wisconsin",
@@ -137,6 +137,11 @@
       "cases": 4
     },
     {
+      "court": "GAND",
+      "courtId": "gand",
+      "cases": 2
+    },
+    {
       "court": "MOED",
       "courtId": "moed",
       "cases": 2
@@ -144,11 +149,6 @@
     {
       "court": "TXSD",
       "courtId": "txsd",
-      "cases": 2
-    },
-    {
-      "court": "CAND",
-      "courtId": "cand",
       "cases": 2
     }
   ]
