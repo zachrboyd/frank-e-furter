@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "2026-05-15T11:46:02Z",
+  "lastUpdated": "2026-05-16T10:53:39Z",
   "leads": [
     {
       "id": 1,
+      "defendant": "Robert Graham Retail LLC",
+      "website": "robertgrahamretail.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Robert Graham Retail LLC",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01058",
+      "dateFiled": "2026-05-14",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 2,
       "defendant": "Table 26 LTD",
       "website": "table26.com",
       "industry": "Consumer Products",
@@ -12,26 +32,6 @@
       "court": "S.D. Florida",
       "courtId": "flsd",
       "docketNumber": "9:26-cv-80497",
-      "dateFiled": "2026-04-29",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
-      "defendant": "The Rod Room, LLC",
-      "website": "therodroom.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. The Rod Room, LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-80498",
       "dateFiled": "2026-04-29",
       "docketUrl": "https://www.courtlistener.com",
       "confidenceScore": 85,
@@ -64,19 +64,19 @@
   ],
   "serialFilers": [
     {
-      "name": "Espinal",
-      "casesThisMonth": 2,
-      "typicalTargets": "Beauty, food products, specialty consumer brands",
-      "courts": [
-        "NYSD"
-      ]
-    },
-    {
       "name": "Alvear",
-      "casesThisMonth": 1,
+      "casesThisMonth": 2,
       "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
+      ]
+    },
+    {
+      "name": "Espinal",
+      "casesThisMonth": 1,
+      "typicalTargets": "Beauty, food products, specialty consumer brands",
+      "courts": [
+        "NYSD"
       ]
     }
   ],
@@ -84,22 +84,22 @@
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 54
+      "cases": 51
     },
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 42
+      "cases": 43
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 37
+      "cases": 38
     },
     {
       "court": "ILND",
       "courtId": "ilnd",
-      "cases": 20
+      "cases": 21
     },
     {
       "court": "E.D. Wisconsin",
@@ -109,7 +109,7 @@
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 6
+      "cases": 7
     },
     {
       "court": "NYED",
@@ -127,9 +127,9 @@
       "cases": 3
     },
     {
-      "court": "CTD",
-      "courtId": "ctd",
-      "cases": 3
+      "court": "TXWD",
+      "courtId": "txwd",
+      "cases": 2
     }
   ]
 }
