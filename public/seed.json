@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T10:53:39Z",
+  "lastUpdated": "2026-05-17T10:58:11Z",
   "leads": [
     {
       "id": 1,
@@ -23,26 +23,6 @@
     },
     {
       "id": 2,
-      "defendant": "Table 26 LTD",
-      "website": "table26.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. Table 26 LTD",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-80497",
-      "dateFiled": "2026-04-29",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 3,
       "defendant": "West Marine Products, Inc.",
       "website": "westmarineproducts.com",
       "industry": "Consumer Products",
@@ -70,26 +50,18 @@
       "courts": [
         "FLMD"
       ]
-    },
-    {
-      "name": "Espinal",
-      "casesThisMonth": 1,
-      "typicalTargets": "Beauty, food products, specialty consumer brands",
-      "courts": [
-        "NYSD"
-      ]
     }
   ],
   "districtStats": [
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 51
+      "cases": 52
     },
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 43
+      "cases": 42
     },
     {
       "court": "S.D. New York",
@@ -99,7 +71,7 @@
     {
       "court": "ILND",
       "courtId": "ilnd",
-      "cases": 21
+      "cases": 22
     },
     {
       "court": "E.D. Wisconsin",
