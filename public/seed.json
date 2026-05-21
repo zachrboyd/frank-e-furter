@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T12:14:36Z",
+  "lastUpdated": "2026-05-21T12:38:06Z",
   "leads": [
     {
       "id": 1,
@@ -23,26 +23,6 @@
     },
     {
       "id": 2,
-      "defendant": "West Marine Products, Inc.",
-      "website": "westmarineproducts.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. West Marine Products, Inc.",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-00957",
-      "dateFiled": "2026-05-01",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 3,
       "defendant": "URBN US Retail LLC",
       "website": "urbnusretail.com",
       "industry": "Consumer Products",
@@ -62,7 +42,7 @@
       "coldOpen": ""
     },
     {
-      "id": 4,
+      "id": 3,
       "defendant": "Meat N' Bone, Inc",
       "website": "meatnbone.com",
       "industry": "Consumer Products",
@@ -85,7 +65,7 @@
   "serialFilers": [
     {
       "name": "Alvear",
-      "casesThisMonth": 4,
+      "casesThisMonth": 3,
       "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
@@ -96,17 +76,17 @@
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 49
+      "cases": 51
     },
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 48
+      "cases": 50
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 40
+      "cases": 39
     },
     {
       "court": "ILND",
@@ -116,7 +96,7 @@
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 10
+      "cases": 9
     },
     {
       "court": "E.D. Wisconsin",
@@ -131,7 +111,7 @@
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 5
+      "cases": 4
     },
     {
       "court": "MIWD",
