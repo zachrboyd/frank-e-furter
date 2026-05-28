@@ -1,20 +1,41 @@
 {
-  "lastUpdated": "2026-05-25T12:55:32Z",
+  "lastUpdated": "2026-05-28T13:00:19Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "URBN US Retail LLC",
-      "website": "urbnusretail.com",
+      "defendant": "Nike, Inc.",
+      "website": "nike.com",
       "industry": "Consumer Products",
-      "caseName": "Alvear v. URBN US Retail LLC",
+      "caseName": "Alvear v. Nike, Inc.",
       "plaintiff": "Alvear",
       "plaintiffFirm": "N/A",
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "docketNumber": "6:26-cv-00987",
-      "dateFiled": "2026-05-06",
+      "docketNumber": "6:26-cv-01169",
+      "dateFiled": "2026-05-26",
       "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
+      "confidenceScore": 95,
+      "enterprise": true,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": "",
+      "briefTheAE": "Nike, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
+    },
+    {
+      "id": 2,
+      "defendant": "Tandy Leather Company, L.P.",
+      "website": "tandyleathercompany.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Tandy Leather Company, L.P.",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01159",
+      "dateFiled": "2026-05-26",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
       "enterprise": false,
       "verified": false,
       "hasIronyBadge": false,
@@ -22,7 +43,27 @@
       "coldOpen": ""
     },
     {
-      "id": 2,
+      "id": 3,
+      "defendant": "Now Optics, LLC",
+      "website": "nowoptics.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Now Optics, LLC",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01179",
+      "dateFiled": "2026-05-27",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 4,
       "defendant": "Meat N' Bone, Inc",
       "website": "meatnbone.com",
       "industry": "Consumer Products",
@@ -42,7 +83,7 @@
       "coldOpen": ""
     },
     {
-      "id": 3,
+      "id": 5,
       "defendant": "Robert Graham Retail LLC",
       "website": "robertgrahamretail.com",
       "industry": "Consumer Products",
@@ -65,7 +106,7 @@
   "serialFilers": [
     {
       "name": "Alvear",
-      "casesThisMonth": 3,
+      "casesThisMonth": 5,
       "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
@@ -74,14 +115,14 @@
   ],
   "districtStats": [
     {
-      "court": "C.D. California",
-      "courtId": "cacd",
-      "cases": 59
-    },
-    {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 53
+      "cases": 61
+    },
+    {
+      "court": "C.D. California",
+      "courtId": "cacd",
+      "cases": 40
     },
     {
       "court": "S.D. New York",
@@ -91,7 +132,7 @@
     {
       "court": "ILND",
       "courtId": "ilnd",
-      "cases": 12
+      "cases": 17
     },
     {
       "court": "M.D. Florida",
@@ -99,13 +140,13 @@
       "cases": 9
     },
     {
-      "court": "NYED",
-      "courtId": "nyed",
+      "court": "E.D. Wisconsin",
+      "courtId": "wied",
       "cases": 5
     },
     {
-      "court": "E.D. Wisconsin",
-      "courtId": "wied",
+      "court": "MOED",
+      "courtId": "moed",
       "cases": 4
     },
     {
@@ -114,14 +155,14 @@
       "cases": 4
     },
     {
-      "court": "MOED",
-      "courtId": "moed",
-      "cases": 3
+      "court": "NJD",
+      "courtId": "njd",
+      "cases": 4
     },
     {
-      "court": "MIWD",
-      "courtId": "miwd",
-      "cases": 2
+      "court": "LAED",
+      "courtId": "laed",
+      "cases": 3
     }
   ]
 }
