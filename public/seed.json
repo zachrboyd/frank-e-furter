@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T13:00:19Z",
+  "lastUpdated": "2026-05-29T12:39:17Z",
   "leads": [
     {
       "id": 1,
@@ -64,18 +64,39 @@
     },
     {
       "id": 4,
-      "defendant": "Meat N' Bone, Inc",
-      "website": "meatnbone.com",
+      "defendant": "Puma North America, Inc.",
+      "website": "pumanorthamerica.com",
       "industry": "Consumer Products",
-      "caseName": "Alvear v. Meat N' Bone, Inc",
+      "caseName": "Drummond v. Puma North America, Inc.",
+      "plaintiff": "Drummond",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "3:26-cv-01414",
+      "dateFiled": "2026-05-28",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": true,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Drummond is a known serial website-ADA filer.",
+      "coldOpen": "",
+      "briefTheAE": "Puma North America, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
+    },
+    {
+      "id": 5,
+      "defendant": "Brinker Florida, Inc",
+      "website": "brinkerflorida.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Brinker Florida, Inc",
       "plaintiff": "Alvear",
       "plaintiffFirm": "N/A",
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "docketNumber": "6:26-cv-01014",
-      "dateFiled": "2026-05-08",
+      "docketNumber": "6:26-cv-01192",
+      "dateFiled": "2026-05-28",
       "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
+      "confidenceScore": 95,
       "enterprise": false,
       "verified": false,
       "hasIronyBadge": false,
@@ -83,7 +104,27 @@
       "coldOpen": ""
     },
     {
-      "id": 5,
+      "id": 6,
+      "defendant": "TNS USA LLC",
+      "website": "tnsusa.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. TNS USA LLC",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01190",
+      "dateFiled": "2026-05-28",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 7,
       "defendant": "Robert Graham Retail LLC",
       "website": "robertgrahamretail.com",
       "industry": "Consumer Products",
@@ -106,8 +147,16 @@
   "serialFilers": [
     {
       "name": "Alvear",
-      "casesThisMonth": 5,
+      "casesThisMonth": 6,
       "typicalTargets": "Footwear retailers and food service brands",
+      "courts": [
+        "FLMD"
+      ]
+    },
+    {
+      "name": "Drummond",
+      "casesThisMonth": 1,
+      "typicalTargets": "Major retail ecommerce operations",
       "courts": [
         "FLMD"
       ]
@@ -117,31 +166,36 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 61
+      "cases": 65
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 40
+      "cases": 34
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 31
+      "cases": 30
     },
     {
       "court": "ILND",
       "courtId": "ilnd",
-      "cases": 17
+      "cases": 19
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 9
+      "cases": 11
     },
     {
       "court": "E.D. Wisconsin",
       "courtId": "wied",
+      "cases": 5
+    },
+    {
+      "court": "NJD",
+      "courtId": "njd",
       "cases": 5
     },
     {
@@ -152,11 +206,6 @@
     {
       "court": "GAND",
       "courtId": "gand",
-      "cases": 4
-    },
-    {
-      "court": "NJD",
-      "courtId": "njd",
       "cases": 4
     },
     {
