@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T11:25:49Z",
+  "lastUpdated": "2026-06-01T15:46:37Z",
   "leads": [
     {
       "id": 1,
@@ -125,6 +125,26 @@
     },
     {
       "id": 7,
+      "defendant": "Steak N Shake Inc.",
+      "website": "steaknshake.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Steak N Shake Inc.",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01205",
+      "dateFiled": "2026-05-29",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 8,
       "defendant": "Robert Graham Retail LLC",
       "website": "robertgrahamretail.com",
       "industry": "Consumer Products",
@@ -147,7 +167,7 @@
   "serialFilers": [
     {
       "name": "Alvear",
-      "casesThisMonth": 6,
+      "casesThisMonth": 7,
       "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
@@ -166,27 +186,27 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 58
+      "cases": 60
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 39
+      "cases": 37
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 32
+      "cases": 33
     },
     {
       "court": "ILND",
       "courtId": "ilnd",
-      "cases": 19
+      "cases": 16
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 11
+      "cases": 12
     },
     {
       "court": "E.D. Wisconsin",
@@ -199,14 +219,14 @@
       "cases": 5
     },
     {
-      "court": "MOED",
-      "courtId": "moed",
+      "court": "GAND",
+      "courtId": "gand",
       "cases": 4
     },
     {
-      "court": "GAND",
-      "courtId": "gand",
-      "cases": 3
+      "court": "MOED",
+      "courtId": "moed",
+      "cases": 4
     },
     {
       "court": "LAED",
