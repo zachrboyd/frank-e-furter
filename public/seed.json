@@ -1,49 +1,8 @@
 {
-  "lastUpdated": "2026-06-02T13:46:22Z",
+  "lastUpdated": "2026-06-03T14:20:04Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Nike, Inc.",
-      "website": "nike.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. Nike, Inc.",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01169",
-      "dateFiled": "2026-05-26",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": true,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": "",
-      "briefTheAE": "Nike, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
-    },
-    {
-      "id": 2,
-      "defendant": "Tandy Leather Company, L.P.",
-      "website": "tandyleathercompany.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. Tandy Leather Company, L.P.",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01159",
-      "dateFiled": "2026-05-26",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 3,
       "defendant": "Now Optics, LLC",
       "website": "nowoptics.com",
       "industry": "Consumer Products",
@@ -63,7 +22,7 @@
       "coldOpen": ""
     },
     {
-      "id": 4,
+      "id": 2,
       "defendant": "Puma North America, Inc.",
       "website": "pumanorthamerica.com",
       "industry": "Consumer Products",
@@ -84,7 +43,7 @@
       "briefTheAE": "Puma North America, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 5,
+      "id": 3,
       "defendant": "Brinker Florida, Inc",
       "website": "brinkerflorida.com",
       "industry": "Consumer Products",
@@ -104,7 +63,7 @@
       "coldOpen": ""
     },
     {
-      "id": 6,
+      "id": 4,
       "defendant": "TNS USA LLC",
       "website": "tnsusa.com",
       "industry": "Consumer Products",
@@ -124,7 +83,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 5,
       "defendant": "Steak N Shake Inc.",
       "website": "steaknshake.com",
       "industry": "Consumer Products",
@@ -144,7 +103,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 6,
       "defendant": "Robert Graham Retail LLC",
       "website": "robertgrahamretail.com",
       "industry": "Consumer Products",
@@ -155,6 +114,47 @@
       "courtId": "flmd",
       "docketNumber": "6:26-cv-01058",
       "dateFiled": "2026-05-14",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 7,
+      "defendant": "Nike, Inc.",
+      "website": "nike.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Nike, Inc.",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01169",
+      "dateFiled": "2026-05-26",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": true,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": "",
+      "briefTheAE": "Nike, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
+    },
+    {
+      "id": 8,
+      "defendant": "Tandy Leather Company, L.P.",
+      "website": "tandyleathercompany.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Tandy Leather Company, L.P.",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01159",
+      "dateFiled": "2026-05-26",
       "docketUrl": "https://www.courtlistener.com",
       "confidenceScore": 85,
       "enterprise": false,
@@ -191,17 +191,17 @@
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 37
+      "cases": 36
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 29
+      "cases": 27
     },
     {
       "court": "ILND",
       "courtId": "ilnd",
-      "cases": 17
+      "cases": 20
     },
     {
       "court": "M.D. Florida",
