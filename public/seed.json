@@ -1,28 +1,8 @@
 {
-  "lastUpdated": "2026-06-03T14:20:04Z",
+  "lastUpdated": "2026-06-04T12:36:45Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Now Optics, LLC",
-      "website": "nowoptics.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. Now Optics, LLC",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01179",
-      "dateFiled": "2026-05-27",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
       "defendant": "Puma North America, Inc.",
       "website": "pumanorthamerica.com",
       "industry": "Consumer Products",
@@ -43,7 +23,7 @@
       "briefTheAE": "Puma North America, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 3,
+      "id": 2,
       "defendant": "Brinker Florida, Inc",
       "website": "brinkerflorida.com",
       "industry": "Consumer Products",
@@ -63,7 +43,7 @@
       "coldOpen": ""
     },
     {
-      "id": 4,
+      "id": 3,
       "defendant": "TNS USA LLC",
       "website": "tnsusa.com",
       "industry": "Consumer Products",
@@ -83,7 +63,7 @@
       "coldOpen": ""
     },
     {
-      "id": 5,
+      "id": 4,
       "defendant": "Steak N Shake Inc.",
       "website": "steaknshake.com",
       "industry": "Consumer Products",
@@ -103,7 +83,7 @@
       "coldOpen": ""
     },
     {
-      "id": 6,
+      "id": 5,
       "defendant": "Robert Graham Retail LLC",
       "website": "robertgrahamretail.com",
       "industry": "Consumer Products",
@@ -123,7 +103,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 6,
       "defendant": "Nike, Inc.",
       "website": "nike.com",
       "industry": "Consumer Products",
@@ -144,7 +124,7 @@
       "briefTheAE": "Nike, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 8,
+      "id": 7,
       "defendant": "Tandy Leather Company, L.P.",
       "website": "tandyleathercompany.com",
       "industry": "Consumer Products",
@@ -155,6 +135,26 @@
       "courtId": "flmd",
       "docketNumber": "6:26-cv-01159",
       "dateFiled": "2026-05-26",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 8,
+      "defendant": "Now Optics, LLC",
+      "website": "nowoptics.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Now Optics, LLC",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01179",
+      "dateFiled": "2026-05-27",
       "docketUrl": "https://www.courtlistener.com",
       "confidenceScore": 85,
       "enterprise": false,
@@ -186,7 +186,7 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 63
+      "cases": 61
     },
     {
       "court": "S.D. New York",
@@ -196,12 +196,12 @@
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 27
+      "cases": 28
     },
     {
       "court": "ILND",
       "courtId": "ilnd",
-      "cases": 20
+      "cases": 18
     },
     {
       "court": "M.D. Florida",
@@ -229,9 +229,9 @@
       "cases": 4
     },
     {
-      "court": "TXSD",
-      "courtId": "txsd",
-      "cases": 2
+      "court": "DCD",
+      "courtId": "dcd",
+      "cases": 3
     }
   ]
 }
