@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T12:04:28Z",
+  "lastUpdated": "2026-06-22T15:12:17Z",
   "leads": [
     {
       "id": 1,
@@ -166,12 +166,12 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 40
+      "cases": 39
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 32
+      "cases": 31
     },
     {
       "court": "M.D. Florida",
@@ -181,7 +181,7 @@
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 6
+      "cases": 8
     },
     {
       "court": "E.D. Wisconsin",
