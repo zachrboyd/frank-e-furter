@@ -1,28 +1,8 @@
 {
-  "lastUpdated": "2026-06-26T12:05:15Z",
+  "lastUpdated": "2026-06-27T11:18:50Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Now Optics, LLC",
-      "website": "nowoptics.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. Now Optics, LLC",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01179",
-      "dateFiled": "2026-05-27",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
       "defendant": "Puma North America, Inc.",
       "website": "pumanorthamerica.com",
       "industry": "Consumer Products",
@@ -43,7 +23,7 @@
       "briefTheAE": "Puma North America, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 3,
+      "id": 2,
       "defendant": "Brinker Florida, Inc",
       "website": "brinkerflorida.com",
       "industry": "Consumer Products",
@@ -63,7 +43,7 @@
       "coldOpen": ""
     },
     {
-      "id": 4,
+      "id": 3,
       "defendant": "TNS USA LLC",
       "website": "tnsusa.com",
       "industry": "Consumer Products",
@@ -83,7 +63,7 @@
       "coldOpen": ""
     },
     {
-      "id": 5,
+      "id": 4,
       "defendant": "Steak N Shake Inc.",
       "website": "steaknshake.com",
       "industry": "Consumer Products",
@@ -106,7 +86,7 @@
   "serialFilers": [
     {
       "name": "Alvear",
-      "casesThisMonth": 4,
+      "casesThisMonth": 3,
       "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
@@ -125,17 +105,22 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 44
+      "cases": 47
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 32
+      "cases": 35
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 11
+      "cases": 10
+    },
+    {
+      "court": "NYED",
+      "courtId": "nyed",
+      "cases": 9
     },
     {
       "court": "C.D. California",
@@ -153,23 +138,18 @@
       "cases": 3
     },
     {
-      "court": "GAND",
-      "courtId": "gand",
-      "cases": 2
-    },
-    {
       "court": "MOED",
       "courtId": "moed",
       "cases": 2
     },
     {
-      "court": "CAND",
-      "courtId": "cand",
+      "court": "ORD",
+      "courtId": "ord",
       "cases": 2
     },
     {
-      "court": "ORD",
-      "courtId": "ord",
+      "court": "TNED",
+      "courtId": "tned",
       "cases": 2
     }
   ]
