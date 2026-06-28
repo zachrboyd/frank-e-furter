@@ -1,69 +1,8 @@
 {
-  "lastUpdated": "2026-06-27T11:18:50Z",
+  "lastUpdated": "2026-06-28T11:39:46Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Puma North America, Inc.",
-      "website": "pumanorthamerica.com",
-      "industry": "Consumer Products",
-      "caseName": "Drummond v. Puma North America, Inc.",
-      "plaintiff": "Drummond",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "3:26-cv-01414",
-      "dateFiled": "2026-05-28",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": true,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Drummond is a known serial website-ADA filer.",
-      "coldOpen": "",
-      "briefTheAE": "Puma North America, Inc. is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
-    },
-    {
-      "id": 2,
-      "defendant": "Brinker Florida, Inc",
-      "website": "brinkerflorida.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. Brinker Florida, Inc",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01192",
-      "dateFiled": "2026-05-28",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 3,
-      "defendant": "TNS USA LLC",
-      "website": "tnsusa.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. TNS USA LLC",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01190",
-      "dateFiled": "2026-05-28",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 4,
       "defendant": "Steak N Shake Inc.",
       "website": "steaknshake.com",
       "industry": "Consumer Products",
@@ -86,16 +25,8 @@
   "serialFilers": [
     {
       "name": "Alvear",
-      "casesThisMonth": 3,
-      "typicalTargets": "Footwear retailers and food service brands",
-      "courts": [
-        "FLMD"
-      ]
-    },
-    {
-      "name": "Drummond",
       "casesThisMonth": 1,
-      "typicalTargets": "Major retail ecommerce operations",
+      "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
       ]
@@ -105,32 +36,32 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 47
+      "cases": 43
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 35
+      "cases": 27
     },
     {
-      "court": "M.D. Florida",
-      "courtId": "flmd",
+      "court": "C.D. California",
+      "courtId": "cacd",
       "cases": 10
     },
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 9
+      "cases": 8
     },
     {
-      "court": "C.D. California",
-      "courtId": "cacd",
-      "cases": 8
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "cases": 7
     },
     {
       "court": "E.D. Wisconsin",
       "courtId": "wied",
-      "cases": 4
+      "cases": 3
     },
     {
       "court": "ILND",
