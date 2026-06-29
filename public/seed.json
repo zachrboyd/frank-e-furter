@@ -1,52 +1,17 @@
 {
-  "lastUpdated": "2026-06-28T11:39:46Z",
-  "leads": [
-    {
-      "id": 1,
-      "defendant": "Steak N Shake Inc.",
-      "website": "steaknshake.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. Steak N Shake Inc.",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01205",
-      "dateFiled": "2026-05-29",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    }
-  ],
-  "serialFilers": [
-    {
-      "name": "Alvear",
-      "casesThisMonth": 1,
-      "typicalTargets": "Footwear retailers and food service brands",
-      "courts": [
-        "FLMD"
-      ]
-    }
-  ],
+  "lastUpdated": "2026-06-29T13:57:01Z",
+  "leads": [],
+  "serialFilers": [],
   "districtStats": [
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 43
+      "cases": 41
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 27
-    },
-    {
-      "court": "C.D. California",
-      "courtId": "cacd",
-      "cases": 10
+      "cases": 24
     },
     {
       "court": "NYED",
@@ -54,9 +19,14 @@
       "cases": 8
     },
     {
+      "court": "C.D. California",
+      "courtId": "cacd",
+      "cases": 8
+    },
+    {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 7
+      "cases": 6
     },
     {
       "court": "E.D. Wisconsin",
@@ -79,9 +49,9 @@
       "cases": 2
     },
     {
-      "court": "TNED",
-      "courtId": "tned",
-      "cases": 2
+      "court": "GAND",
+      "courtId": "gand",
+      "cases": 1
     }
   ]
 }
