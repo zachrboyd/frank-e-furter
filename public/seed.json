@@ -1,17 +1,81 @@
 {
-  "lastUpdated": "2026-06-30T12:04:03Z",
-  "leads": [],
-  "serialFilers": [],
+  "lastUpdated": "2026-07-01T12:26:28Z",
+  "leads": [
+    {
+      "id": 1,
+      "defendant": "Mango NY, Inc.",
+      "website": "mangony.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Mango NY, Inc.",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01430",
+      "dateFiled": "2026-06-30",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 2,
+      "defendant": "Florida Food Enterprises LLC",
+      "website": "floridafoodenterprises.com",
+      "industry": "Food & Nutrition",
+      "caseName": "Espinal v. Florida Food Enterprises LLC",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-80782",
+      "dateFiled": "2026-06-30",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": true,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Food & Nutrition company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": "",
+      "briefTheAE": "Florida Food Enterprises LLC is being sued for website accessibility violations in S.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
+    }
+  ],
+  "serialFilers": [
+    {
+      "name": "Espinal",
+      "casesThisMonth": 1,
+      "typicalTargets": "Beauty, food products, specialty consumer brands",
+      "courts": [
+        "NYSD"
+      ]
+    },
+    {
+      "name": "Alvear",
+      "casesThisMonth": 1,
+      "typicalTargets": "Footwear retailers and food service brands",
+      "courts": [
+        "FLMD"
+      ]
+    }
+  ],
   "districtStats": [
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 50
+      "cases": 59
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 32
+      "cases": 34
+    },
+    {
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "cases": 13
     },
     {
       "court": "NYED",
@@ -22,11 +86,6 @@
       "court": "C.D. California",
       "courtId": "cacd",
       "cases": 8
-    },
-    {
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "cases": 7
     },
     {
       "court": "ILND",
