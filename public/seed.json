@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T12:26:28Z",
+  "lastUpdated": "2026-07-02T12:01:00Z",
   "leads": [
     {
       "id": 1,
@@ -46,7 +46,7 @@
   "serialFilers": [
     {
       "name": "Espinal",
-      "casesThisMonth": 1,
+      "casesThisMonth": 2,
       "typicalTargets": "Beauty, food products, specialty consumer brands",
       "courts": [
         "NYSD"
@@ -65,17 +65,17 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 59
+      "cases": 56
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 34
+      "cases": 38
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 13
+      "cases": 12
     },
     {
       "court": "NYED",
@@ -85,12 +85,7 @@
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 8
-    },
-    {
-      "court": "ILND",
-      "courtId": "ilnd",
-      "cases": 3
+      "cases": 7
     },
     {
       "court": "MOED",
@@ -106,6 +101,11 @@
       "court": "E.D. Wisconsin",
       "courtId": "wied",
       "cases": 2
+    },
+    {
+      "court": "CAED",
+      "courtId": "caed",
+      "cases": 1
     },
     {
       "court": "GAND",
