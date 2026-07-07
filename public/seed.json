@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T13:36:34Z",
+  "lastUpdated": "2026-07-07T12:21:00Z",
   "leads": [
     {
       "id": 1,
@@ -88,6 +88,11 @@
       "cases": 5
     },
     {
+      "court": "CAND",
+      "courtId": "cand",
+      "cases": 2
+    },
+    {
       "court": "E.D. Wisconsin",
       "courtId": "wied",
       "cases": 2
@@ -105,11 +110,6 @@
     {
       "court": "CAED",
       "courtId": "caed",
-      "cases": 1
-    },
-    {
-      "court": "GAND",
-      "courtId": "gand",
       "cases": 1
     }
   ]
