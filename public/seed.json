@@ -1,29 +1,8 @@
 {
-  "lastUpdated": "2026-07-08T11:40:36Z",
+  "lastUpdated": "2026-07-09T12:24:34Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Florida Food Enterprises LLC",
-      "website": "floridafoodenterprises.com",
-      "industry": "Food & Nutrition",
-      "caseName": "Espinal v. Florida Food Enterprises LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-80787",
-      "dateFiled": "2026-07-01",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": true,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Food & Nutrition company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": "",
-      "briefTheAE": "Florida Food Enterprises LLC is being sued for website accessibility violations in S.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
-    },
-    {
-      "id": 2,
       "defendant": "Mango NY, Inc.",
       "website": "mangony.com",
       "industry": "Consumer Products",
@@ -41,6 +20,27 @@
       "hasIronyBadge": false,
       "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
       "coldOpen": ""
+    },
+    {
+      "id": 2,
+      "defendant": "Florida Food Enterprises LLC",
+      "website": "floridafoodenterprises.com",
+      "industry": "Food & Nutrition",
+      "caseName": "Espinal v. Florida Food Enterprises LLC",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-80782",
+      "dateFiled": "2026-06-30",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": true,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Food & Nutrition company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": "",
+      "briefTheAE": "Florida Food Enterprises LLC is being sued for website accessibility violations in S.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     }
   ],
   "serialFilers": [
@@ -65,12 +65,12 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 68
+      "cases": 75
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 45
+      "cases": 49
     },
     {
       "court": "M.D. Florida",
