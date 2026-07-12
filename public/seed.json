@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T10:52:48Z",
+  "lastUpdated": "2026-07-12T11:03:07Z",
   "leads": [
     {
       "id": 1,
@@ -80,12 +80,12 @@
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 10
+      "cases": 9
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 7
+      "cases": 8
     },
     {
       "court": "PAED",
