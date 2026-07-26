@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T11:29:02Z",
+  "lastUpdated": "2026-07-26T11:12:20Z",
   "leads": [
     {
       "id": 1,
@@ -123,6 +123,26 @@
     },
     {
       "id": 7,
+      "defendant": "Biltwell Custom Motorcycle Corp.",
+      "website": "biltwellcustommotorcycle.com",
+      "industry": "Consumer Products",
+      "caseName": "Knowles v. Biltwell Custom Motorcycle Corp.",
+      "plaintiff": "Knowles",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-06291",
+      "dateFiled": "2026-07-24",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 8,
       "defendant": "Mango NY, Inc.",
       "website": "mangony.com",
       "industry": "Consumer Products",
@@ -142,7 +162,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 9,
       "defendant": "Florida Food Enterprises LLC",
       "website": "floridafoodenterprises.com",
       "industry": "Food & Nutrition",
@@ -163,7 +183,7 @@
       "briefTheAE": "Florida Food Enterprises LLC is being sued for website accessibility violations in S.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 10,
+      "id": 11,
       "defendant": "The Blue Dog in Boca Inc",
       "website": "thebluedoginboca.com",
       "industry": "Consumer Products",
@@ -183,7 +203,7 @@
       "coldOpen": ""
     },
     {
-      "id": 11,
+      "id": 12,
       "defendant": "Untuckit Retail, LLC",
       "website": "untuckitretail.com",
       "industry": "Consumer Products",
@@ -203,7 +223,7 @@
       "coldOpen": ""
     },
     {
-      "id": 12,
+      "id": 13,
       "defendant": "Jupiter Grill Harbourside LLC",
       "website": "jupitergrillharbourside.com",
       "industry": "Food Service",
@@ -223,7 +243,7 @@
       "coldOpen": ""
     },
     {
-      "id": 13,
+      "id": 14,
       "defendant": "Verthius LLC",
       "website": "verthius.com",
       "industry": "Consumer Products",
@@ -243,7 +263,7 @@
       "coldOpen": ""
     },
     {
-      "id": 14,
+      "id": 15,
       "defendant": "KATZNER'S DELITERRANEAN CAFE, LLC",
       "website": "katznersdeliterraneancafe.com",
       "industry": "Food Service",
@@ -263,7 +283,7 @@
       "coldOpen": ""
     },
     {
-      "id": 15,
+      "id": 16,
       "defendant": "Mycajita Corporation",
       "website": "mycajitacorporation.com",
       "industry": "Consumer Products",
@@ -283,7 +303,7 @@
       "coldOpen": ""
     },
     {
-      "id": 16,
+      "id": 17,
       "defendant": "Fiskars Living US, LLC",
       "website": "fiskarslivingus.com",
       "industry": "Consumer Products",
@@ -303,7 +323,7 @@
       "coldOpen": ""
     },
     {
-      "id": 17,
+      "id": 18,
       "defendant": "Columbia Brands Usa, LLC",
       "website": "columbiabrandsusa.com",
       "industry": "Consumer Products",
@@ -340,18 +360,26 @@
       "courts": [
         "FLMD"
       ]
+    },
+    {
+      "name": "Knowles",
+      "casesThisMonth": 1,
+      "typicalTargets": "DTC ecommerce brands — food, supplements, hosiery",
+      "courts": [
+        "NYSD"
+      ]
     }
   ],
   "districtStats": [
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 74
+      "cases": 72
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 67
+      "cases": 70
     },
     {
       "court": "M.D. Florida",
@@ -361,7 +389,7 @@
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 11
+      "cases": 10
     },
     {
       "court": "FLND",
