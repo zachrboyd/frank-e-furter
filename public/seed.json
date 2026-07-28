@@ -1,28 +1,8 @@
 {
-  "lastUpdated": "2026-07-27T12:48:27Z",
+  "lastUpdated": "2026-07-28T11:48:52Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Ulta Salon, Cosmetics & Fragrance, Inc.",
-      "website": "ultasaloncosmeticsfragrance.com",
-      "industry": "Beauty & Personal Care",
-      "caseName": "Alvear v. Ulta Salon, Cosmetics & Fragrance, Inc.",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01565",
-      "dateFiled": "2026-07-20",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Beauty & Personal Care company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
       "defendant": "Vineyard Vines, LLC",
       "website": "vineyardvines.com",
       "industry": "Consumer Products",
@@ -42,7 +22,7 @@
       "coldOpen": ""
     },
     {
-      "id": 3,
+      "id": 2,
       "defendant": "The Buckle, Inc.",
       "website": "thebuckle.com",
       "industry": "Consumer Products",
@@ -62,7 +42,7 @@
       "coldOpen": ""
     },
     {
-      "id": 4,
+      "id": 3,
       "defendant": "Hat Heaven Inc.",
       "website": "hatheaven.com",
       "industry": "Consumer Products",
@@ -82,7 +62,7 @@
       "coldOpen": ""
     },
     {
-      "id": 5,
+      "id": 4,
       "defendant": "Eric Javits Operations LLC",
       "website": "ericjavitsoperations.com",
       "industry": "Consumer Products",
@@ -102,7 +82,7 @@
       "coldOpen": ""
     },
     {
-      "id": 6,
+      "id": 5,
       "defendant": "Josephinenhutte, Inc.",
       "website": "josephinenhutte.com",
       "industry": "Consumer Products",
@@ -122,7 +102,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 6,
       "defendant": "Biltwell Custom Motorcycle Corp.",
       "website": "biltwellcustommotorcycle.com",
       "industry": "Consumer Products",
@@ -142,7 +122,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 7,
       "defendant": "Mango NY, Inc.",
       "website": "mangony.com",
       "industry": "Consumer Products",
@@ -162,7 +142,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
+      "id": 8,
       "defendant": "Florida Food Enterprises LLC",
       "website": "floridafoodenterprises.com",
       "industry": "Food & Nutrition",
@@ -183,7 +163,7 @@
       "briefTheAE": "Florida Food Enterprises LLC is being sued for website accessibility violations in S.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 11,
+      "id": 10,
       "defendant": "The Blue Dog in Boca Inc",
       "website": "thebluedoginboca.com",
       "industry": "Consumer Products",
@@ -203,7 +183,7 @@
       "coldOpen": ""
     },
     {
-      "id": 12,
+      "id": 11,
       "defendant": "Untuckit Retail, LLC",
       "website": "untuckitretail.com",
       "industry": "Consumer Products",
@@ -223,7 +203,7 @@
       "coldOpen": ""
     },
     {
-      "id": 13,
+      "id": 12,
       "defendant": "Jupiter Grill Harbourside LLC",
       "website": "jupitergrillharbourside.com",
       "industry": "Food Service",
@@ -243,7 +223,7 @@
       "coldOpen": ""
     },
     {
-      "id": 14,
+      "id": 13,
       "defendant": "Verthius LLC",
       "website": "verthius.com",
       "industry": "Consumer Products",
@@ -263,7 +243,7 @@
       "coldOpen": ""
     },
     {
-      "id": 15,
+      "id": 14,
       "defendant": "KATZNER'S DELITERRANEAN CAFE, LLC",
       "website": "katznersdeliterraneancafe.com",
       "industry": "Food Service",
@@ -283,7 +263,7 @@
       "coldOpen": ""
     },
     {
-      "id": 16,
+      "id": 15,
       "defendant": "Mycajita Corporation",
       "website": "mycajitacorporation.com",
       "industry": "Consumer Products",
@@ -303,7 +283,7 @@
       "coldOpen": ""
     },
     {
-      "id": 17,
+      "id": 16,
       "defendant": "Fiskars Living US, LLC",
       "website": "fiskarslivingus.com",
       "industry": "Consumer Products",
@@ -323,7 +303,7 @@
       "coldOpen": ""
     },
     {
-      "id": 18,
+      "id": 17,
       "defendant": "Columbia Brands Usa, LLC",
       "website": "columbiabrandsusa.com",
       "industry": "Consumer Products",
@@ -342,6 +322,26 @@
       "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
       "coldOpen": "",
       "briefTheAE": "Columbia Brands Usa, LLC is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
+    },
+    {
+      "id": 18,
+      "defendant": "Ulta Salon, Cosmetics & Fragrance, Inc.",
+      "website": "ultasaloncosmeticsfragrance.com",
+      "industry": "Beauty & Personal Care",
+      "caseName": "Alvear v. Ulta Salon, Cosmetics & Fragrance, Inc.",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01565",
+      "dateFiled": "2026-07-20",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Beauty & Personal Care company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
     }
   ],
   "serialFilers": [
@@ -374,7 +374,7 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 81
+      "cases": 80
     },
     {
       "court": "S.D. New York",
@@ -407,6 +407,11 @@
       "cases": 4
     },
     {
+      "court": "MOED",
+      "courtId": "moed",
+      "cases": 2
+    },
+    {
       "court": "MAD",
       "courtId": "mad",
       "cases": 2
@@ -414,11 +419,6 @@
     {
       "court": "ILND",
       "courtId": "ilnd",
-      "cases": 2
-    },
-    {
-      "court": "OKWD",
-      "courtId": "okwd",
       "cases": 2
     }
   ]
