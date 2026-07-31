@@ -1,68 +1,8 @@
 {
-  "lastUpdated": "2026-07-30T11:44:14Z",
+  "lastUpdated": "2026-07-31T11:50:48Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Hat Heaven Inc.",
-      "website": "hatheaven.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. Hat Heaven Inc.",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-06239",
-      "dateFiled": "2026-07-23",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
-      "defendant": "Eric Javits Operations LLC",
-      "website": "ericjavitsoperations.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. Eric Javits Operations LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-06238",
-      "dateFiled": "2026-07-23",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 3,
-      "defendant": "Josephinenhutte, Inc.",
-      "website": "josephinenhutte.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. Josephinenhutte, Inc.",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-06237",
-      "dateFiled": "2026-07-23",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 4,
       "defendant": "Biltwell Custom Motorcycle Corp.",
       "website": "biltwellcustommotorcycle.com",
       "industry": "Consumer Products",
@@ -82,7 +22,7 @@
       "coldOpen": ""
     },
     {
-      "id": 5,
+      "id": 2,
       "defendant": "Title Boxing, LLC",
       "website": "titleboxing.com",
       "industry": "Consumer Products",
@@ -102,7 +42,7 @@
       "coldOpen": ""
     },
     {
-      "id": 6,
+      "id": 3,
       "defendant": "Gemplers Inc.",
       "website": "gemplers.com",
       "industry": "Consumer Products",
@@ -122,7 +62,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 4,
       "defendant": "Brighton-Best International, Inc.",
       "website": "brightonbestinternational.com",
       "industry": "Consumer Products",
@@ -143,7 +83,27 @@
       "briefTheAE": "Brighton-Best International, Inc. is being sued for website accessibility violations in S.D. New York. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 8,
+      "id": 5,
+      "defendant": "Phoenix Retail, LLC",
+      "website": "phoenixretail.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Phoenix Retail, LLC",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01652",
+      "dateFiled": "2026-07-29",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 6,
       "defendant": "Elite Source Products, Inc.",
       "website": "elitesourceproducts.com",
       "industry": "Consumer Products",
@@ -163,7 +123,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
+      "id": 7,
       "defendant": "Hight Enterprises, Ltd.",
       "website": "hightenterprises.com",
       "industry": "Consumer Products",
@@ -183,7 +143,7 @@
       "coldOpen": ""
     },
     {
-      "id": 10,
+      "id": 8,
       "defendant": "Better Baseball, Inc.",
       "website": "betterbaseball.com",
       "industry": "Consumer Products",
@@ -194,6 +154,46 @@
       "courtId": "nysd",
       "docketNumber": "1:26-cv-06441",
       "dateFiled": "2026-07-29",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 9,
+      "defendant": "Franklin-Christoph, LLC",
+      "website": "franklinchristoph.com",
+      "industry": "Consumer Products",
+      "caseName": "Knowles v. Franklin-Christoph, LLC",
+      "plaintiff": "Knowles",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-06499",
+      "dateFiled": "2026-07-30",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 10,
+      "defendant": "Mochithings, LLC",
+      "website": "mochithings.com",
+      "industry": "Consumer Products",
+      "caseName": "Knowles v. Mochithings, LLC",
+      "plaintiff": "Knowles",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-06498",
+      "dateFiled": "2026-07-30",
       "docketUrl": "https://www.courtlistener.com",
       "confidenceScore": 95,
       "enterprise": false,
@@ -422,6 +422,66 @@
       "hasIronyBadge": false,
       "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
       "coldOpen": ""
+    },
+    {
+      "id": 22,
+      "defendant": "Hat Heaven Inc.",
+      "website": "hatheaven.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. Hat Heaven Inc.",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-06239",
+      "dateFiled": "2026-07-23",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 23,
+      "defendant": "Eric Javits Operations LLC",
+      "website": "ericjavitsoperations.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. Eric Javits Operations LLC",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-06238",
+      "dateFiled": "2026-07-23",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 24,
+      "defendant": "Josephinenhutte, Inc.",
+      "website": "josephinenhutte.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. Josephinenhutte, Inc.",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-06237",
+      "dateFiled": "2026-07-23",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
     }
   ],
   "serialFilers": [
@@ -435,7 +495,7 @@
     },
     {
       "name": "Knowles",
-      "casesThisMonth": 7,
+      "casesThisMonth": 9,
       "typicalTargets": "DTC ecommerce brands — food, supplements, hosiery",
       "courts": [
         "NYSD"
@@ -443,7 +503,7 @@
     },
     {
       "name": "Alvear",
-      "casesThisMonth": 4,
+      "casesThisMonth": 5,
       "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
@@ -454,22 +514,22 @@
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 66
+      "cases": 63
     },
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 60
+      "cases": 61
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 22
+      "cases": 25
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 10
+      "cases": 12
     },
     {
       "court": "PAED",
@@ -484,7 +544,7 @@
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 4
+      "cases": 3
     },
     {
       "court": "MOED",
