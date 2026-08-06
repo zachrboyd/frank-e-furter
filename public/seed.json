@@ -1,88 +1,8 @@
 {
-  "lastUpdated": "2026-08-05T11:49:48Z",
+  "lastUpdated": "2026-08-06T11:55:36Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Phoenix Retail, LLC",
-      "website": "phoenixretail.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. Phoenix Retail, LLC",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01652",
-      "dateFiled": "2026-07-29",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
-      "defendant": "Elite Source Products, Inc.",
-      "website": "elitesourceproducts.com",
-      "industry": "Consumer Products",
-      "caseName": "Knowles v. Elite Source Products, Inc.",
-      "plaintiff": "Knowles",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-06443",
-      "dateFiled": "2026-07-29",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 3,
-      "defendant": "Hight Enterprises, Ltd.",
-      "website": "hightenterprises.com",
-      "industry": "Consumer Products",
-      "caseName": "Knowles v. Hight Enterprises, Ltd.",
-      "plaintiff": "Knowles",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-06442",
-      "dateFiled": "2026-07-29",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 4,
-      "defendant": "Better Baseball, Inc.",
-      "website": "betterbaseball.com",
-      "industry": "Consumer Products",
-      "caseName": "Knowles v. Better Baseball, Inc.",
-      "plaintiff": "Knowles",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-06441",
-      "dateFiled": "2026-07-29",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 5,
       "defendant": "Franklin-Christoph, LLC",
       "website": "franklinchristoph.com",
       "industry": "Consumer Products",
@@ -102,7 +22,7 @@
       "coldOpen": ""
     },
     {
-      "id": 6,
+      "id": 2,
       "defendant": "Mochithings, LLC",
       "website": "mochithings.com",
       "industry": "Consumer Products",
@@ -122,7 +42,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 3,
       "defendant": "Fanatics Retail Group North, LLC",
       "website": "fanaticsretailgroupnorth.com",
       "industry": "Consumer Products",
@@ -143,7 +63,7 @@
       "briefTheAE": "Fanatics Retail Group North, LLC is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 8,
+      "id": 4,
       "defendant": "The Blue Dog in Boca Inc",
       "website": "thebluedoginboca.com",
       "industry": "Consumer Products",
@@ -163,7 +83,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
+      "id": 5,
       "defendant": "Untuckit Retail, LLC",
       "website": "untuckitretail.com",
       "industry": "Consumer Products",
@@ -183,7 +103,7 @@
       "coldOpen": ""
     },
     {
-      "id": 10,
+      "id": 6,
       "defendant": "Jupiter Grill Harbourside LLC",
       "website": "jupitergrillharbourside.com",
       "industry": "Food Service",
@@ -203,7 +123,7 @@
       "coldOpen": ""
     },
     {
-      "id": 11,
+      "id": 7,
       "defendant": "Verthius LLC",
       "website": "verthius.com",
       "industry": "Consumer Products",
@@ -223,7 +143,7 @@
       "coldOpen": ""
     },
     {
-      "id": 12,
+      "id": 8,
       "defendant": "KATZNER'S DELITERRANEAN CAFE, LLC",
       "website": "katznersdeliterraneancafe.com",
       "industry": "Food Service",
@@ -243,7 +163,7 @@
       "coldOpen": ""
     },
     {
-      "id": 13,
+      "id": 9,
       "defendant": "Mycajita Corporation",
       "website": "mycajitacorporation.com",
       "industry": "Consumer Products",
@@ -263,7 +183,7 @@
       "coldOpen": ""
     },
     {
-      "id": 14,
+      "id": 10,
       "defendant": "Fiskars Living US, LLC",
       "website": "fiskarslivingus.com",
       "industry": "Consumer Products",
@@ -283,7 +203,7 @@
       "coldOpen": ""
     },
     {
-      "id": 15,
+      "id": 11,
       "defendant": "Columbia Brands Usa, LLC",
       "website": "columbiabrandsusa.com",
       "industry": "Consumer Products",
@@ -304,7 +224,7 @@
       "briefTheAE": "Columbia Brands Usa, LLC is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 16,
+      "id": 12,
       "defendant": "Ulta Salon, Cosmetics & Fragrance, Inc.",
       "website": "ultasaloncosmeticsfragrance.com",
       "industry": "Beauty & Personal Care",
@@ -324,7 +244,7 @@
       "coldOpen": ""
     },
     {
-      "id": 17,
+      "id": 13,
       "defendant": "Vineyard Vines, LLC",
       "website": "vineyardvines.com",
       "industry": "Consumer Products",
@@ -344,7 +264,7 @@
       "coldOpen": ""
     },
     {
-      "id": 18,
+      "id": 14,
       "defendant": "The Buckle, Inc.",
       "website": "thebuckle.com",
       "industry": "Consumer Products",
@@ -364,7 +284,7 @@
       "coldOpen": ""
     },
     {
-      "id": 19,
+      "id": 15,
       "defendant": "Hat Heaven Inc.",
       "website": "hatheaven.com",
       "industry": "Consumer Products",
@@ -384,7 +304,7 @@
       "coldOpen": ""
     },
     {
-      "id": 20,
+      "id": 16,
       "defendant": "Eric Javits Operations LLC",
       "website": "ericjavitsoperations.com",
       "industry": "Consumer Products",
@@ -404,7 +324,7 @@
       "coldOpen": ""
     },
     {
-      "id": 21,
+      "id": 17,
       "defendant": "Josephinenhutte, Inc.",
       "website": "josephinenhutte.com",
       "industry": "Consumer Products",
@@ -424,7 +344,7 @@
       "coldOpen": ""
     },
     {
-      "id": 22,
+      "id": 18,
       "defendant": "Biltwell Custom Motorcycle Corp.",
       "website": "biltwellcustommotorcycle.com",
       "industry": "Consumer Products",
@@ -444,7 +364,7 @@
       "coldOpen": ""
     },
     {
-      "id": 23,
+      "id": 19,
       "defendant": "Title Boxing, LLC",
       "website": "titleboxing.com",
       "industry": "Consumer Products",
@@ -464,7 +384,7 @@
       "coldOpen": ""
     },
     {
-      "id": 24,
+      "id": 20,
       "defendant": "Gemplers Inc.",
       "website": "gemplers.com",
       "industry": "Consumer Products",
@@ -484,7 +404,7 @@
       "coldOpen": ""
     },
     {
-      "id": 25,
+      "id": 21,
       "defendant": "Brighton-Best International, Inc.",
       "website": "brightonbestinternational.com",
       "industry": "Consumer Products",
@@ -503,6 +423,86 @@
       "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
       "coldOpen": "",
       "briefTheAE": "Brighton-Best International, Inc. is being sued for website accessibility violations in S.D. New York. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
+    },
+    {
+      "id": 22,
+      "defendant": "Phoenix Retail, LLC",
+      "website": "phoenixretail.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Phoenix Retail, LLC",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01652",
+      "dateFiled": "2026-07-29",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 23,
+      "defendant": "Elite Source Products, Inc.",
+      "website": "elitesourceproducts.com",
+      "industry": "Consumer Products",
+      "caseName": "Knowles v. Elite Source Products, Inc.",
+      "plaintiff": "Knowles",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-06443",
+      "dateFiled": "2026-07-29",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 24,
+      "defendant": "Hight Enterprises, Ltd.",
+      "website": "hightenterprises.com",
+      "industry": "Consumer Products",
+      "caseName": "Knowles v. Hight Enterprises, Ltd.",
+      "plaintiff": "Knowles",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-06442",
+      "dateFiled": "2026-07-29",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 25,
+      "defendant": "Better Baseball, Inc.",
+      "website": "betterbaseball.com",
+      "industry": "Consumer Products",
+      "caseName": "Knowles v. Better Baseball, Inc.",
+      "plaintiff": "Knowles",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-06441",
+      "dateFiled": "2026-07-29",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
+      "coldOpen": ""
     }
   ],
   "serialFilers": [
@@ -535,17 +535,17 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 63
+      "cases": 65
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 62
+      "cases": 64
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 26
+      "cases": 29
     },
     {
       "court": "C.D. California",
@@ -558,18 +558,18 @@
       "cases": 5
     },
     {
+      "court": "E.D. Wisconsin",
+      "courtId": "wied",
+      "cases": 3
+    },
+    {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 3
+      "cases": 2
     },
     {
       "court": "ORD",
       "courtId": "ord",
-      "cases": 2
-    },
-    {
-      "court": "E.D. Wisconsin",
-      "courtId": "wied",
       "cases": 2
     },
     {
