@@ -1,28 +1,8 @@
 {
-  "lastUpdated": "2026-08-14T10:46:30Z",
+  "lastUpdated": "2026-08-15T10:11:07Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Darden Concepts, Inc.",
-      "website": "dardenconcepts.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. Darden Concepts, Inc.",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01724",
-      "dateFiled": "2026-08-07",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
       "defendant": "Brillant Scents LLC",
       "website": "brillantscents.com",
       "industry": "Consumer Products",
@@ -42,7 +22,27 @@
       "coldOpen": ""
     },
     {
-      "id": 4,
+      "id": 2,
+      "defendant": "Darden Concepts, Inc.",
+      "website": "dardenconcepts.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Darden Concepts, Inc.",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01736",
+      "dateFiled": "2026-08-11",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 3,
       "defendant": "Title Boxing, LLC",
       "website": "titleboxing.com",
       "industry": "Consumer Products",
@@ -62,7 +62,7 @@
       "coldOpen": ""
     },
     {
-      "id": 5,
+      "id": 4,
       "defendant": "Gemplers Inc.",
       "website": "gemplers.com",
       "industry": "Consumer Products",
@@ -82,7 +82,7 @@
       "coldOpen": ""
     },
     {
-      "id": 6,
+      "id": 5,
       "defendant": "Brighton-Best International, Inc.",
       "website": "brightonbestinternational.com",
       "industry": "Consumer Products",
@@ -103,7 +103,7 @@
       "briefTheAE": "Brighton-Best International, Inc. is being sued for website accessibility violations in S.D. New York. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 7,
+      "id": 6,
       "defendant": "Phoenix Retail, LLC",
       "website": "phoenixretail.com",
       "industry": "Consumer Products",
@@ -123,7 +123,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 7,
       "defendant": "Elite Source Products, Inc.",
       "website": "elitesourceproducts.com",
       "industry": "Consumer Products",
@@ -143,7 +143,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
+      "id": 8,
       "defendant": "Hight Enterprises, Ltd.",
       "website": "hightenterprises.com",
       "industry": "Consumer Products",
@@ -163,7 +163,7 @@
       "coldOpen": ""
     },
     {
-      "id": 10,
+      "id": 9,
       "defendant": "Better Baseball, Inc.",
       "website": "betterbaseball.com",
       "industry": "Consumer Products",
@@ -183,7 +183,7 @@
       "coldOpen": ""
     },
     {
-      "id": 11,
+      "id": 10,
       "defendant": "Franklin-Christoph, LLC",
       "website": "franklinchristoph.com",
       "industry": "Consumer Products",
@@ -203,7 +203,7 @@
       "coldOpen": ""
     },
     {
-      "id": 12,
+      "id": 11,
       "defendant": "Mochithings, LLC",
       "website": "mochithings.com",
       "industry": "Consumer Products",
@@ -223,7 +223,7 @@
       "coldOpen": ""
     },
     {
-      "id": 13,
+      "id": 12,
       "defendant": "Fanatics Retail Group North, LLC",
       "website": "fanaticsretailgroupnorth.com",
       "industry": "Consumer Products",
@@ -244,7 +244,7 @@
       "briefTheAE": "Fanatics Retail Group North, LLC is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 14,
+      "id": 13,
       "defendant": "Maui Nix, Inc.",
       "website": "mauinix.com",
       "industry": "Consumer Products",
@@ -264,7 +264,7 @@
       "coldOpen": ""
     },
     {
-      "id": 15,
+      "id": 14,
       "defendant": "United Legwear Company, LLC",
       "website": "unitedlegwearcompany.com",
       "industry": "Consumer Products",
@@ -284,7 +284,7 @@
       "coldOpen": ""
     },
     {
-      "id": 16,
+      "id": 15,
       "defendant": "Lane Bryant Brands OPCO LLC",
       "website": "lanebryantbrandsopco.com",
       "industry": "Consumer Products",
@@ -335,27 +335,27 @@
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 55
+      "cases": 57
     },
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 51
+      "cases": 50
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 38
+      "cases": 36
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 31
+      "cases": 29
     },
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 4
+      "cases": 6
     },
     {
       "court": "OHND",
