@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T10:11:07Z",
+  "lastUpdated": "2026-08-18T10:16:07Z",
   "leads": [
     {
       "id": 1,
@@ -83,27 +83,6 @@
     },
     {
       "id": 5,
-      "defendant": "Brighton-Best International, Inc.",
-      "website": "brightonbestinternational.com",
-      "industry": "Consumer Products",
-      "caseName": "Knowles v. Brighton-Best International, Inc.",
-      "plaintiff": "Knowles",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-06393",
-      "dateFiled": "2026-07-28",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": true,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
-      "coldOpen": "",
-      "briefTheAE": "Brighton-Best International, Inc. is being sued for website accessibility violations in S.D. New York. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
-    },
-    {
-      "id": 6,
       "defendant": "Phoenix Retail, LLC",
       "website": "phoenixretail.com",
       "industry": "Consumer Products",
@@ -123,7 +102,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 6,
       "defendant": "Elite Source Products, Inc.",
       "website": "elitesourceproducts.com",
       "industry": "Consumer Products",
@@ -143,7 +122,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 7,
       "defendant": "Hight Enterprises, Ltd.",
       "website": "hightenterprises.com",
       "industry": "Consumer Products",
@@ -163,7 +142,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
+      "id": 8,
       "defendant": "Better Baseball, Inc.",
       "website": "betterbaseball.com",
       "industry": "Consumer Products",
@@ -183,7 +162,7 @@
       "coldOpen": ""
     },
     {
-      "id": 10,
+      "id": 9,
       "defendant": "Franklin-Christoph, LLC",
       "website": "franklinchristoph.com",
       "industry": "Consumer Products",
@@ -203,7 +182,7 @@
       "coldOpen": ""
     },
     {
-      "id": 11,
+      "id": 10,
       "defendant": "Mochithings, LLC",
       "website": "mochithings.com",
       "industry": "Consumer Products",
@@ -223,7 +202,7 @@
       "coldOpen": ""
     },
     {
-      "id": 12,
+      "id": 11,
       "defendant": "Fanatics Retail Group North, LLC",
       "website": "fanaticsretailgroupnorth.com",
       "industry": "Consumer Products",
@@ -244,7 +223,7 @@
       "briefTheAE": "Fanatics Retail Group North, LLC is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 13,
+      "id": 12,
       "defendant": "Maui Nix, Inc.",
       "website": "mauinix.com",
       "industry": "Consumer Products",
@@ -264,7 +243,7 @@
       "coldOpen": ""
     },
     {
-      "id": 14,
+      "id": 13,
       "defendant": "United Legwear Company, LLC",
       "website": "unitedlegwearcompany.com",
       "industry": "Consumer Products",
@@ -284,7 +263,7 @@
       "coldOpen": ""
     },
     {
-      "id": 15,
+      "id": 14,
       "defendant": "Lane Bryant Brands OPCO LLC",
       "website": "lanebryantbrandsopco.com",
       "industry": "Consumer Products",
@@ -307,19 +286,19 @@
   ],
   "serialFilers": [
     {
-      "name": "Knowles",
-      "casesThisMonth": 8,
-      "typicalTargets": "DTC ecommerce brands — food, supplements, hosiery",
-      "courts": [
-        "NYSD"
-      ]
-    },
-    {
       "name": "Alvear",
       "casesThisMonth": 8,
       "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
+      ]
+    },
+    {
+      "name": "Knowles",
+      "casesThisMonth": 7,
+      "typicalTargets": "DTC ecommerce brands — food, supplements, hosiery",
+      "courts": [
+        "NYSD"
       ]
     },
     {
@@ -335,27 +314,27 @@
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 57
+      "cases": 60
     },
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 50
+      "cases": 51
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 36
+      "cases": 33
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 29
+      "cases": 26
     },
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 6
+      "cases": 8
     },
     {
       "court": "OHND",
@@ -368,6 +347,11 @@
       "cases": 3
     },
     {
+      "court": "COD",
+      "courtId": "cod",
+      "cases": 2
+    },
+    {
       "court": "GAND",
       "courtId": "gand",
       "cases": 2
@@ -375,11 +359,6 @@
     {
       "court": "LAED",
       "courtId": "laed",
-      "cases": 2
-    },
-    {
-      "court": "ILND",
-      "courtId": "ilnd",
       "cases": 2
     }
   ]
