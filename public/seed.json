@@ -1,48 +1,108 @@
 {
-  "lastUpdated": "2026-08-19T10:17:01Z",
+  "lastUpdated": "2026-08-20T10:18:09Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Franklin-Christoph, LLC",
-      "website": "franklinchristoph.com",
-      "industry": "Consumer Products",
-      "caseName": "Knowles v. Franklin-Christoph, LLC",
-      "plaintiff": "Knowles",
+      "defendant": "Jupiter Grill Harbourside LLC",
+      "website": "jupitergrillharbourside.com",
+      "industry": "Food Service",
+      "caseName": "Espinal v. Jupiter Grill Harbourside LLC",
+      "plaintiff": "Espinal",
       "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-06499",
-      "dateFiled": "2026-07-30",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81015",
+      "dateFiled": "2026-08-18",
       "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
+      "confidenceScore": 95,
       "enterprise": false,
       "verified": false,
       "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
+      "whyItMatters": "Food Service company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
       "coldOpen": ""
     },
     {
       "id": 2,
-      "defendant": "Mochithings, LLC",
-      "website": "mochithings.com",
+      "defendant": "Isla WPB LLC",
+      "website": "islawpb.com",
       "industry": "Consumer Products",
-      "caseName": "Knowles v. Mochithings, LLC",
-      "plaintiff": "Knowles",
+      "caseName": "Espinal v. Isla WPB LLC",
+      "plaintiff": "Espinal",
       "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-06498",
-      "dateFiled": "2026-07-30",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81014",
+      "dateFiled": "2026-08-18",
       "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
+      "confidenceScore": 95,
       "enterprise": false,
       "verified": false,
       "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Knowles is a known serial website-ADA filer.",
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
       "coldOpen": ""
     },
     {
       "id": 3,
+      "defendant": "The Twisted Tuna Jupiter LLC",
+      "website": "thetwistedtunajupiter.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. The Twisted Tuna Jupiter LLC",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81013",
+      "dateFiled": "2026-08-18",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 4,
+      "defendant": "Rolys at Dublin, L.L.C.",
+      "website": "rolysatdublinllc.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. Rolys at Dublin, L.L.C.",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81011",
+      "dateFiled": "2026-08-18",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 5,
+      "defendant": "RTT-Benny's On The Beach, Inc.",
+      "website": "rttbennysonthebeach.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. RTT-Benny's On The Beach, Inc.",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81010",
+      "dateFiled": "2026-08-18",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 6,
       "defendant": "Fanatics Retail Group North, LLC",
       "website": "fanaticsretailgroupnorth.com",
       "industry": "Consumer Products",
@@ -63,7 +123,7 @@
       "briefTheAE": "Fanatics Retail Group North, LLC is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 4,
+      "id": 7,
       "defendant": "Maui Nix, Inc.",
       "website": "mauinix.com",
       "industry": "Consumer Products",
@@ -83,7 +143,7 @@
       "coldOpen": ""
     },
     {
-      "id": 5,
+      "id": 8,
       "defendant": "United Legwear Company, LLC",
       "website": "unitedlegwearcompany.com",
       "industry": "Consumer Products",
@@ -103,7 +163,7 @@
       "coldOpen": ""
     },
     {
-      "id": 6,
+      "id": 9,
       "defendant": "Lane Bryant Brands OPCO LLC",
       "website": "lanebryantbrandsopco.com",
       "industry": "Consumer Products",
@@ -124,7 +184,7 @@
       "briefTheAE": "Lane Bryant Brands OPCO LLC is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 8,
+      "id": 11,
       "defendant": "Darden Concepts, Inc.",
       "website": "dardenconcepts.com",
       "industry": "Consumer Products",
@@ -144,7 +204,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
+      "id": 12,
       "defendant": "Brillant Scents LLC",
       "website": "brillantscents.com",
       "industry": "Consumer Products",
@@ -174,16 +234,8 @@
       ]
     },
     {
-      "name": "Knowles",
-      "casesThisMonth": 2,
-      "typicalTargets": "DTC ecommerce brands — food, supplements, hosiery",
-      "courts": [
-        "NYSD"
-      ]
-    },
-    {
       "name": "Espinal",
-      "casesThisMonth": 1,
+      "casesThisMonth": 6,
       "typicalTargets": "Beauty, food products, specialty consumer brands",
       "courts": [
         "NYSD"
@@ -194,31 +246,36 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 57
+      "cases": 58
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 53
+      "cases": 49
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 33
+      "cases": 36
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 26
+      "cases": 29
     },
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 8
+      "cases": 7
     },
     {
       "court": "OHND",
       "courtId": "ohnd",
+      "cases": 3
+    },
+    {
+      "court": "ILND",
+      "courtId": "ilnd",
       "cases": 3
     },
     {
@@ -234,11 +291,6 @@
     {
       "court": "COD",
       "courtId": "cod",
-      "cases": 2
-    },
-    {
-      "court": "GAND",
-      "courtId": "gand",
       "cases": 2
     }
   ]
