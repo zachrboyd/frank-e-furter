@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T10:18:09Z",
+  "lastUpdated": "2026-08-21T10:18:07Z",
   "leads": [
     {
       "id": 1,
@@ -103,24 +103,23 @@
     },
     {
       "id": 6,
-      "defendant": "Fanatics Retail Group North, LLC",
-      "website": "fanaticsretailgroupnorth.com",
+      "defendant": "Verthius LLC",
+      "website": "verthius.com",
       "industry": "Consumer Products",
-      "caseName": "Alvear v. Fanatics Retail Group North, LLC",
-      "plaintiff": "Alvear",
+      "caseName": "Espinal v. Verthius LLC",
+      "plaintiff": "Espinal",
       "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01675",
-      "dateFiled": "2026-07-31",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81022",
+      "dateFiled": "2026-08-19",
       "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": true,
+      "confidenceScore": 95,
+      "enterprise": false,
       "verified": false,
       "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": "",
-      "briefTheAE": "Fanatics Retail Group North, LLC is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
     },
     {
       "id": 7,
@@ -226,19 +225,19 @@
   ],
   "serialFilers": [
     {
-      "name": "Alvear",
-      "casesThisMonth": 7,
-      "typicalTargets": "Footwear retailers and food service brands",
-      "courts": [
-        "FLMD"
-      ]
-    },
-    {
       "name": "Espinal",
-      "casesThisMonth": 6,
+      "casesThisMonth": 7,
       "typicalTargets": "Beauty, food products, specialty consumer brands",
       "courts": [
         "NYSD"
+      ]
+    },
+    {
+      "name": "Alvear",
+      "casesThisMonth": 6,
+      "typicalTargets": "Footwear retailers and food service brands",
+      "courts": [
+        "FLMD"
       ]
     }
   ],
@@ -246,12 +245,12 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 58
+      "cases": 56
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 49
+      "cases": 51
     },
     {
       "court": "C.D. California",
