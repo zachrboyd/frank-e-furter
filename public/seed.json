@@ -1,108 +1,8 @@
 {
-  "lastUpdated": "2026-08-25T10:20:00Z",
+  "lastUpdated": "2026-08-26T10:22:50Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Jupiter Grill Harbourside LLC",
-      "website": "jupitergrillharbourside.com",
-      "industry": "Food Service",
-      "caseName": "Espinal v. Jupiter Grill Harbourside LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-81015",
-      "dateFiled": "2026-08-18",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Food Service company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
-      "defendant": "Isla WPB LLC",
-      "website": "islawpb.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. Isla WPB LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-81014",
-      "dateFiled": "2026-08-18",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 3,
-      "defendant": "The Twisted Tuna Jupiter LLC",
-      "website": "thetwistedtunajupiter.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. The Twisted Tuna Jupiter LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-81013",
-      "dateFiled": "2026-08-18",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 4,
-      "defendant": "Rolys at Dublin, L.L.C.",
-      "website": "rolysatdublinllc.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. Rolys at Dublin, L.L.C.",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-81011",
-      "dateFiled": "2026-08-18",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 5,
-      "defendant": "RTT-Benny's On The Beach, Inc.",
-      "website": "rttbennysonthebeach.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. RTT-Benny's On The Beach, Inc.",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-81010",
-      "dateFiled": "2026-08-18",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 6,
       "defendant": "Verthius LLC",
       "website": "verthius.com",
       "industry": "Consumer Products",
@@ -122,7 +22,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 2,
       "defendant": "Maui Nix, Inc.",
       "website": "mauinix.com",
       "industry": "Consumer Products",
@@ -142,48 +42,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
-      "defendant": "United Legwear Company, LLC",
-      "website": "unitedlegwearcompany.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. United Legwear Company, LLC",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01698",
-      "dateFiled": "2026-08-05",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 9,
-      "defendant": "Lane Bryant Brands OPCO LLC",
-      "website": "lanebryantbrandsopco.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. Lane Bryant Brands OPCO LLC",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01695",
-      "dateFiled": "2026-08-05",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": true,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": "",
-      "briefTheAE": "Lane Bryant Brands OPCO LLC is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
-    },
-    {
-      "id": 11,
+      "id": 3,
       "defendant": "Darden Concepts, Inc.",
       "website": "dardenconcepts.com",
       "industry": "Consumer Products",
@@ -203,7 +62,7 @@
       "coldOpen": ""
     },
     {
-      "id": 12,
+      "id": 4,
       "defendant": "Brillant Scents LLC",
       "website": "brillantscents.com",
       "industry": "Consumer Products",
@@ -221,6 +80,106 @@
       "hasIronyBadge": false,
       "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
       "coldOpen": ""
+    },
+    {
+      "id": 6,
+      "defendant": "Jupiter Grill Harbourside LLC",
+      "website": "jupitergrillharbourside.com",
+      "industry": "Food Service",
+      "caseName": "Espinal v. Jupiter Grill Harbourside LLC",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81015",
+      "dateFiled": "2026-08-18",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Food Service company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 7,
+      "defendant": "Isla WPB LLC",
+      "website": "islawpb.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. Isla WPB LLC",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81014",
+      "dateFiled": "2026-08-18",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 8,
+      "defendant": "The Twisted Tuna Jupiter LLC",
+      "website": "thetwistedtunajupiter.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. The Twisted Tuna Jupiter LLC",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81013",
+      "dateFiled": "2026-08-18",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 9,
+      "defendant": "Rolys at Dublin, L.L.C.",
+      "website": "rolysatdublinllc.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. Rolys at Dublin, L.L.C.",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81011",
+      "dateFiled": "2026-08-18",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 10,
+      "defendant": "RTT-Benny's On The Beach, Inc.",
+      "website": "rttbennysonthebeach.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. RTT-Benny's On The Beach, Inc.",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81010",
+      "dateFiled": "2026-08-18",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
     }
   ],
   "serialFilers": [
@@ -234,7 +193,7 @@
     },
     {
       "name": "Alvear",
-      "casesThisMonth": 6,
+      "casesThisMonth": 3,
       "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
@@ -245,32 +204,32 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 52
-    },
-    {
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "cases": 46
+      "cases": 49
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 39
+      "cases": 46
+    },
+    {
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "cases": 43
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 28
+      "cases": 22
     },
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 9
+      "cases": 8
     },
     {
       "court": "ILND",
       "courtId": "ilnd",
-      "cases": 5
+      "cases": 6
     },
     {
       "court": "OHND",
@@ -278,19 +237,19 @@
       "cases": 4
     },
     {
-      "court": "CASD",
-      "courtId": "casd",
+      "court": "COD",
+      "courtId": "cod",
       "cases": 3
     },
     {
-      "court": "ALSD",
-      "courtId": "alsd",
-      "cases": 2
+      "court": "GAND",
+      "courtId": "gand",
+      "cases": 3
     },
     {
-      "court": "MOED",
-      "courtId": "moed",
-      "cases": 2
+      "court": "CASD",
+      "courtId": "casd",
+      "cases": 3
     }
   ]
 }
