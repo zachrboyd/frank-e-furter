@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T20:02:45Z",
+  "lastUpdated": "2026-08-28T21:01:19Z",
   "leads": [
     {
       "id": 1,
@@ -182,24 +182,24 @@
   ],
   "districtStats": [
     {
-      "court": "C.D. California",
-      "courtId": "cacd",
-      "cases": 48
-    },
-    {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 48
+      "cases": 53
+    },
+    {
+      "court": "C.D. California",
+      "courtId": "cacd",
+      "cases": 49
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 43
+      "cases": 42
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 22
+      "cases": 20
     },
     {
       "court": "NYED",
@@ -207,13 +207,13 @@
       "cases": 8
     },
     {
-      "court": "ILND",
-      "courtId": "ilnd",
-      "cases": 6
-    },
-    {
       "court": "OHND",
       "courtId": "ohnd",
+      "cases": 5
+    },
+    {
+      "court": "ILND",
+      "courtId": "ilnd",
       "cases": 5
     },
     {
@@ -222,14 +222,14 @@
       "cases": 3
     },
     {
-      "court": "GAND",
-      "courtId": "gand",
-      "cases": 3
-    },
-    {
       "court": "CASD",
       "courtId": "casd",
       "cases": 3
+    },
+    {
+      "court": "ALSD",
+      "courtId": "alsd",
+      "cases": 2
     }
   ]
 }
