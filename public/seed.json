@@ -1,28 +1,8 @@
 {
-  "lastUpdated": "2026-08-29T14:45:56Z",
+  "lastUpdated": "2026-08-31T17:16:57Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Darden Concepts, Inc.",
-      "website": "dardenconcepts.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. Darden Concepts, Inc.",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01724",
-      "dateFiled": "2026-08-07",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
       "defendant": "Brillant Scents LLC",
       "website": "brillantscents.com",
       "industry": "Consumer Products",
@@ -42,7 +22,27 @@
       "coldOpen": ""
     },
     {
-      "id": 4,
+      "id": 2,
+      "defendant": "Darden Concepts, Inc.",
+      "website": "dardenconcepts.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Darden Concepts, Inc.",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01736",
+      "dateFiled": "2026-08-11",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 3,
       "defendant": "Jupiter Grill Harbourside LLC",
       "website": "jupitergrillharbourside.com",
       "industry": "Food Service",
@@ -62,7 +62,7 @@
       "coldOpen": ""
     },
     {
-      "id": 5,
+      "id": 4,
       "defendant": "Isla WPB LLC",
       "website": "islawpb.com",
       "industry": "Consumer Products",
@@ -82,7 +82,7 @@
       "coldOpen": ""
     },
     {
-      "id": 6,
+      "id": 5,
       "defendant": "The Twisted Tuna Jupiter LLC",
       "website": "thetwistedtunajupiter.com",
       "industry": "Consumer Products",
@@ -102,7 +102,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 6,
       "defendant": "Rolys at Dublin, L.L.C.",
       "website": "rolysatdublinllc.com",
       "industry": "Consumer Products",
@@ -122,7 +122,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 7,
       "defendant": "RTT-Benny's On The Beach, Inc.",
       "website": "rttbennysonthebeach.com",
       "industry": "Consumer Products",
@@ -142,7 +142,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
+      "id": 8,
       "defendant": "Verthius LLC",
       "website": "verthius.com",
       "industry": "Consumer Products",
@@ -173,7 +173,7 @@
     },
     {
       "name": "Alvear",
-      "casesThisMonth": 2,
+      "casesThisMonth": 1,
       "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
@@ -184,12 +184,12 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 53
+      "cases": 54
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 49
+      "cases": 45
     },
     {
       "court": "S.D. New York",
@@ -199,12 +199,12 @@
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 20
+      "cases": 22
     },
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 8
+      "cases": 9
     },
     {
       "court": "OHND",
