@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T13:56:39Z",
+  "lastUpdated": "2026-09-03T13:58:20Z",
   "leads": [
     {
       "id": 1,
@@ -44,6 +44,26 @@
     },
     {
       "id": 3,
+      "defendant": "Luxottica of America Inc.",
+      "website": "luxotticaofamerica.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Luxottica of America Inc.",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01958",
+      "dateFiled": "2026-09-02",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 95,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 4,
       "defendant": "Pervine Foods, LLC",
       "website": "pervinefoods.com",
       "industry": "Food & Nutrition",
@@ -63,7 +83,7 @@
       "coldOpen": ""
     },
     {
-      "id": 4,
+      "id": 5,
       "defendant": "Jupiter Grill Harbourside LLC",
       "website": "jupitergrillharbourside.com",
       "industry": "Food Service",
@@ -83,7 +103,7 @@
       "coldOpen": ""
     },
     {
-      "id": 5,
+      "id": 6,
       "defendant": "Isla WPB LLC",
       "website": "islawpb.com",
       "industry": "Consumer Products",
@@ -103,7 +123,7 @@
       "coldOpen": ""
     },
     {
-      "id": 6,
+      "id": 7,
       "defendant": "The Twisted Tuna Jupiter LLC",
       "website": "thetwistedtunajupiter.com",
       "industry": "Consumer Products",
@@ -123,7 +143,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 8,
       "defendant": "Rolys at Dublin, L.L.C.",
       "website": "rolysatdublinllc.com",
       "industry": "Consumer Products",
@@ -143,7 +163,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 9,
       "defendant": "RTT-Benny's On The Beach, Inc.",
       "website": "rttbennysonthebeach.com",
       "industry": "Consumer Products",
@@ -163,7 +183,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
+      "id": 10,
       "defendant": "Verthius LLC",
       "website": "verthius.com",
       "industry": "Consumer Products",
@@ -194,7 +214,7 @@
     },
     {
       "name": "Alvear",
-      "casesThisMonth": 2,
+      "casesThisMonth": 3,
       "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
@@ -205,7 +225,7 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 56
+      "cases": 55
     },
     {
       "court": "C.D. California",
@@ -215,31 +235,31 @@
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 42
+      "cases": 44
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 20
+      "cases": 24
     },
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 9
+      "cases": 6
     },
     {
       "court": "ILND",
       "courtId": "ilnd",
-      "cases": 5
+      "cases": 4
+    },
+    {
+      "court": "MOED",
+      "courtId": "moed",
+      "cases": 3
     },
     {
       "court": "OHND",
       "courtId": "ohnd",
-      "cases": 3
-    },
-    {
-      "court": "COD",
-      "courtId": "cod",
       "cases": 3
     },
     {
