@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T13:05:43Z",
+  "lastUpdated": "2026-09-06T13:15:34Z",
   "leads": [
     {
       "id": 1,
@@ -273,11 +273,6 @@
       "cases": 4
     },
     {
-      "court": "MOED",
-      "courtId": "moed",
-      "cases": 3
-    },
-    {
       "court": "CAND",
       "courtId": "cand",
       "cases": 3
@@ -286,6 +281,11 @@
       "court": "OHND",
       "courtId": "ohnd",
       "cases": 3
+    },
+    {
+      "court": "MOED",
+      "courtId": "moed",
+      "cases": 2
     },
     {
       "court": "GAND",
