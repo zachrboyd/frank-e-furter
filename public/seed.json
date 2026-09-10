@@ -1,48 +1,8 @@
 {
-  "lastUpdated": "2026-09-09T14:00:15Z",
+  "lastUpdated": "2026-09-10T13:55:24Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Luxottica of America Inc.",
-      "website": "luxotticaofamerica.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. Luxottica of America Inc.",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01958",
-      "dateFiled": "2026-09-02",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
-      "defendant": "Pervine Foods, LLC",
-      "website": "pervinefoods.com",
-      "industry": "Food & Nutrition",
-      "caseName": "Espinal v. Pervine Foods, LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-07496",
-      "dateFiled": "2026-09-02",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Food & Nutrition company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 3,
       "defendant": "CVHC 2 LLC",
       "website": "cvhc2.com",
       "industry": "Consumer Products",
@@ -62,7 +22,7 @@
       "coldOpen": ""
     },
     {
-      "id": 4,
+      "id": 2,
       "defendant": "PALDURO GROUP LLC",
       "website": "paldurogroup.com",
       "industry": "Consumer Products",
@@ -83,7 +43,7 @@
       "briefTheAE": "PALDURO GROUP LLC is being sued for website accessibility violations in S.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 5,
+      "id": 3,
       "defendant": "JCNAPLES, INC.",
       "website": "jcnaples.com",
       "industry": "Consumer Products",
@@ -103,7 +63,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 5,
       "defendant": "1000 North, LLC",
       "website": "1000north.com",
       "industry": "Consumer Products",
@@ -123,7 +83,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 6,
       "defendant": "Panier Des Sens, Inc.",
       "website": "panierdessens.com",
       "industry": "Consumer Products",
@@ -143,7 +103,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
+      "id": 7,
       "defendant": "Sparc Group Retail LLC",
       "website": "sparcgroupretail.com",
       "industry": "Consumer Products",
@@ -164,7 +124,7 @@
       "briefTheAE": "Sparc Group Retail LLC is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 10,
+      "id": 8,
       "defendant": "Lush Handmade Cosmetics LLC",
       "website": "lushhandmadecosmetics.com",
       "industry": "Beauty & Personal Care",
@@ -181,6 +141,46 @@
       "verified": false,
       "hasIronyBadge": false,
       "whyItMatters": "Beauty & Personal Care company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 9,
+      "defendant": "Luxottica of America Inc.",
+      "website": "luxotticaofamerica.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. Luxottica of America Inc.",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-01958",
+      "dateFiled": "2026-09-02",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 10,
+      "defendant": "Pervine Foods, LLC",
+      "website": "pervinefoods.com",
+      "industry": "Food & Nutrition",
+      "caseName": "Espinal v. Pervine Foods, LLC",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-07496",
+      "dateFiled": "2026-09-02",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Food & Nutrition company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
       "coldOpen": ""
     }
   ],
@@ -206,17 +206,17 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 53
+      "cases": 56
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 46
+      "cases": 45
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 42
+      "cases": 39
     },
     {
       "court": "M.D. Florida",
