@@ -1,109 +1,8 @@
 {
-  "lastUpdated": "2026-09-10T13:55:24Z",
+  "lastUpdated": "2026-09-12T13:12:24Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "CVHC 2 LLC",
-      "website": "cvhc2.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. CVHC 2 LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-81106",
-      "dateFiled": "2026-09-04",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
-      "defendant": "PALDURO GROUP LLC",
-      "website": "paldurogroup.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. PALDURO GROUP LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-81105",
-      "dateFiled": "2026-09-04",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": true,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": "",
-      "briefTheAE": "PALDURO GROUP LLC is being sued for website accessibility violations in S.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
-    },
-    {
-      "id": 3,
-      "defendant": "JCNAPLES, INC.",
-      "website": "jcnaples.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. JCNAPLES, INC.",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-81103",
-      "dateFiled": "2026-09-04",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 5,
-      "defendant": "1000 North, LLC",
-      "website": "1000north.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. 1000 North, LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-81101",
-      "dateFiled": "2026-09-04",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 6,
-      "defendant": "Panier Des Sens, Inc.",
-      "website": "panierdessens.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. Panier Des Sens, Inc.",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-07583",
-      "dateFiled": "2026-09-04",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 7,
       "defendant": "Sparc Group Retail LLC",
       "website": "sparcgroupretail.com",
       "industry": "Consumer Products",
@@ -124,7 +23,7 @@
       "briefTheAE": "Sparc Group Retail LLC is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 8,
+      "id": 2,
       "defendant": "Lush Handmade Cosmetics LLC",
       "website": "lushhandmadecosmetics.com",
       "industry": "Beauty & Personal Care",
@@ -144,7 +43,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
+      "id": 3,
       "defendant": "Luxottica of America Inc.",
       "website": "luxotticaofamerica.com",
       "industry": "Consumer Products",
@@ -164,7 +63,7 @@
       "coldOpen": ""
     },
     {
-      "id": 10,
+      "id": 4,
       "defendant": "Pervine Foods, LLC",
       "website": "pervinefoods.com",
       "industry": "Food & Nutrition",
@@ -181,6 +80,107 @@
       "verified": false,
       "hasIronyBadge": false,
       "whyItMatters": "Food & Nutrition company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 5,
+      "defendant": "CVHC 2 LLC",
+      "website": "cvhc2.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. CVHC 2 LLC",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81106",
+      "dateFiled": "2026-09-04",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 6,
+      "defendant": "PALDURO GROUP LLC",
+      "website": "paldurogroup.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. PALDURO GROUP LLC",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81105",
+      "dateFiled": "2026-09-04",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": true,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": "",
+      "briefTheAE": "PALDURO GROUP LLC is being sued for website accessibility violations in S.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
+    },
+    {
+      "id": 7,
+      "defendant": "JCNAPLES, INC.",
+      "website": "jcnaples.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. JCNAPLES, INC.",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81103",
+      "dateFiled": "2026-09-04",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 9,
+      "defendant": "1000 North, LLC",
+      "website": "1000north.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. 1000 North, LLC",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "docketNumber": "9:26-cv-81101",
+      "dateFiled": "2026-09-04",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 10,
+      "defendant": "Panier Des Sens, Inc.",
+      "website": "panierdessens.com",
+      "industry": "Consumer Products",
+      "caseName": "Espinal v. Panier Des Sens, Inc.",
+      "plaintiff": "Espinal",
+      "plaintiffFirm": "N/A",
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "docketNumber": "1:26-cv-07583",
+      "dateFiled": "2026-09-04",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
       "coldOpen": ""
     }
   ],
@@ -206,12 +206,12 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 56
+      "cases": 53
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 45
+      "cases": 46
     },
     {
       "court": "S.D. New York",
@@ -221,7 +221,7 @@
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 26
+      "cases": 27
     },
     {
       "court": "NYED",
@@ -232,6 +232,11 @@
       "court": "CAND",
       "courtId": "cand",
       "cases": 3
+    },
+    {
+      "court": "COD",
+      "courtId": "cod",
+      "cases": 2
     },
     {
       "court": "MOED",
@@ -246,11 +251,6 @@
     {
       "court": "OHND",
       "courtId": "ohnd",
-      "cases": 2
-    },
-    {
-      "court": "ILND",
-      "courtId": "ilnd",
       "cases": 2
     }
   ]
