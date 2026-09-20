@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T13:57:05Z",
+  "lastUpdated": "2026-09-20T13:46:50Z",
   "leads": [
     {
       "id": 1,
@@ -256,7 +256,7 @@
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 40
+      "cases": 39
     },
     {
       "court": "M.D. Florida",
@@ -266,22 +266,22 @@
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 13
+      "cases": 12
+    },
+    {
+      "court": "CAND",
+      "courtId": "cand",
+      "cases": 4
+    },
+    {
+      "court": "MOED",
+      "courtId": "moed",
+      "cases": 3
     },
     {
       "court": "GAND",
       "courtId": "gand",
       "cases": 3
-    },
-    {
-      "court": "CAND",
-      "courtId": "cand",
-      "cases": 3
-    },
-    {
-      "court": "MOED",
-      "courtId": "moed",
-      "cases": 2
     },
     {
       "court": "PAED",
