@@ -1,28 +1,8 @@
 {
-  "lastUpdated": "2026-09-21T16:04:18Z",
+  "lastUpdated": "2026-09-22T14:14:01Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "MCM Products USA Inc.",
-      "website": "mcmproductsusa.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. MCM Products USA Inc.",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-02057",
-      "dateFiled": "2026-09-14",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 95,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
       "defendant": "Perry Ellis Menswear, LLC",
       "website": "perryellismenswear.com",
       "industry": "Consumer Products",
@@ -42,7 +22,7 @@
       "coldOpen": ""
     },
     {
-      "id": 3,
+      "id": 2,
       "defendant": "Sparc Group Retail LLC",
       "website": "sparcgroupretail.com",
       "industry": "Consumer Products",
@@ -63,7 +43,7 @@
       "briefTheAE": "Sparc Group Retail LLC is being sued for website accessibility violations in M.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 4,
+      "id": 3,
       "defendant": "Lush Handmade Cosmetics LLC",
       "website": "lushhandmadecosmetics.com",
       "industry": "Beauty & Personal Care",
@@ -83,7 +63,7 @@
       "coldOpen": ""
     },
     {
-      "id": 5,
+      "id": 4,
       "defendant": "Luxottica of America Inc.",
       "website": "luxotticaofamerica.com",
       "industry": "Consumer Products",
@@ -103,7 +83,7 @@
       "coldOpen": ""
     },
     {
-      "id": 6,
+      "id": 5,
       "defendant": "Pervine Foods, LLC",
       "website": "pervinefoods.com",
       "industry": "Food & Nutrition",
@@ -123,7 +103,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 6,
       "defendant": "CVHC 2 LLC",
       "website": "cvhc2.com",
       "industry": "Consumer Products",
@@ -143,7 +123,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 7,
       "defendant": "PALDURO GROUP LLC",
       "website": "paldurogroup.com",
       "industry": "Consumer Products",
@@ -164,7 +144,7 @@
       "briefTheAE": "PALDURO GROUP LLC is being sued for website accessibility violations in S.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 9,
+      "id": 8,
       "defendant": "JCNAPLES, INC.",
       "website": "jcnaples.com",
       "industry": "Consumer Products",
@@ -184,7 +164,7 @@
       "coldOpen": ""
     },
     {
-      "id": 11,
+      "id": 10,
       "defendant": "1000 North, LLC",
       "website": "1000north.com",
       "industry": "Consumer Products",
@@ -204,7 +184,7 @@
       "coldOpen": ""
     },
     {
-      "id": 12,
+      "id": 11,
       "defendant": "Panier Des Sens, Inc.",
       "website": "panierdessens.com",
       "industry": "Consumer Products",
@@ -221,6 +201,26 @@
       "verified": false,
       "hasIronyBadge": false,
       "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
+      "coldOpen": ""
+    },
+    {
+      "id": 12,
+      "defendant": "MCM Products USA Inc.",
+      "website": "mcmproductsusa.com",
+      "industry": "Consumer Products",
+      "caseName": "Alvear v. MCM Products USA Inc.",
+      "plaintiff": "Alvear",
+      "plaintiffFirm": "N/A",
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "docketNumber": "6:26-cv-02057",
+      "dateFiled": "2026-09-14",
+      "docketUrl": "https://www.courtlistener.com",
+      "confidenceScore": 85,
+      "enterprise": false,
+      "verified": false,
+      "hasIronyBadge": false,
+      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
       "coldOpen": ""
     }
   ],
@@ -246,36 +246,36 @@
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 48
+      "cases": 52
     },
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 48
+      "cases": 51
     },
     {
       "court": "M.D. Florida",
       "courtId": "flmd",
-      "cases": 37
+      "cases": 34
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 35
+      "cases": 29
     },
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 12
-    },
-    {
-      "court": "CAND",
-      "courtId": "cand",
-      "cases": 4
+      "cases": 13
     },
     {
       "court": "MOED",
       "courtId": "moed",
+      "cases": 3
+    },
+    {
+      "court": "CAND",
+      "courtId": "cand",
       "cases": 3
     },
     {
@@ -284,13 +284,13 @@
       "cases": 3
     },
     {
-      "court": "PAED",
-      "courtId": "paed",
-      "cases": 1
+      "court": "NJD",
+      "courtId": "njd",
+      "cases": 2
     },
     {
-      "court": "COD",
-      "courtId": "cod",
+      "court": "PAED",
+      "courtId": "paed",
       "cases": 1
     }
   ]
