@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T14:29:49Z",
+  "lastUpdated": "2026-09-25T14:50:28Z",
   "leads": [
     {
       "id": 1,
@@ -23,26 +23,6 @@
     },
     {
       "id": 2,
-      "defendant": "Pervine Foods, LLC",
-      "website": "pervinefoods.com",
-      "industry": "Food & Nutrition",
-      "caseName": "Espinal v. Pervine Foods, LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-07496",
-      "dateFiled": "2026-09-02",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Food & Nutrition company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 3,
       "defendant": "CVHC 2 LLC",
       "website": "cvhc2.com",
       "industry": "Consumer Products",
@@ -62,7 +42,7 @@
       "coldOpen": ""
     },
     {
-      "id": 4,
+      "id": 3,
       "defendant": "PALDURO GROUP LLC",
       "website": "paldurogroup.com",
       "industry": "Consumer Products",
@@ -83,7 +63,7 @@
       "briefTheAE": "PALDURO GROUP LLC is being sued for website accessibility violations in S.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 5,
+      "id": 4,
       "defendant": "JCNAPLES, INC.",
       "website": "jcnaples.com",
       "industry": "Consumer Products",
@@ -103,7 +83,7 @@
       "coldOpen": ""
     },
     {
-      "id": 7,
+      "id": 6,
       "defendant": "1000 North, LLC",
       "website": "1000north.com",
       "industry": "Consumer Products",
@@ -123,7 +103,7 @@
       "coldOpen": ""
     },
     {
-      "id": 8,
+      "id": 7,
       "defendant": "Panier Des Sens, Inc.",
       "website": "panierdessens.com",
       "industry": "Consumer Products",
@@ -143,7 +123,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
+      "id": 8,
       "defendant": "MCM Products USA Inc.",
       "website": "mcmproductsusa.com",
       "industry": "Consumer Products",
@@ -163,7 +143,7 @@
       "coldOpen": ""
     },
     {
-      "id": 10,
+      "id": 9,
       "defendant": "Perry Ellis Menswear, LLC",
       "website": "perryellismenswear.com",
       "industry": "Consumer Products",
@@ -186,7 +166,7 @@
   "serialFilers": [
     {
       "name": "Espinal",
-      "casesThisMonth": 7,
+      "casesThisMonth": 6,
       "typicalTargets": "Beauty, food products, specialty consumer brands",
       "courts": [
         "NYSD"
@@ -205,12 +185,17 @@
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 57
+      "cases": 54
     },
     {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 46
+      "cases": 45
+    },
+    {
+      "court": "C.D. California",
+      "courtId": "cacd",
+      "cases": 31
     },
     {
       "court": "M.D. Florida",
@@ -218,14 +203,9 @@
       "cases": 30
     },
     {
-      "court": "C.D. California",
-      "courtId": "cacd",
-      "cases": 29
-    },
-    {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 18
+      "cases": 19
     },
     {
       "court": "MOED",
@@ -238,6 +218,11 @@
       "cases": 4
     },
     {
+      "court": "GAMD",
+      "courtId": "gamd",
+      "cases": 2
+    },
+    {
       "court": "NJD",
       "courtId": "njd",
       "cases": 2
@@ -245,11 +230,6 @@
     {
       "court": "E.D. Wisconsin",
       "courtId": "wied",
-      "cases": 1
-    },
-    {
-      "court": "CAND",
-      "courtId": "cand",
       "cases": 1
     }
   ]
