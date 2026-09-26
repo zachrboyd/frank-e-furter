@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T14:50:28Z",
+  "lastUpdated": "2026-09-26T13:56:27Z",
   "leads": [
     {
       "id": 1,
@@ -185,7 +185,7 @@
     {
       "court": "S.D. New York",
       "courtId": "nysd",
-      "cases": 54
+      "cases": 53
     },
     {
       "court": "S.D. Florida",
@@ -193,14 +193,14 @@
       "cases": 45
     },
     {
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "cases": 32
+    },
+    {
       "court": "C.D. California",
       "courtId": "cacd",
       "cases": 31
-    },
-    {
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "cases": 30
     },
     {
       "court": "NYED",
@@ -208,14 +208,14 @@
       "cases": 19
     },
     {
-      "court": "MOED",
-      "courtId": "moed",
-      "cases": 4
-    },
-    {
       "court": "GAND",
       "courtId": "gand",
       "cases": 4
+    },
+    {
+      "court": "MOED",
+      "courtId": "moed",
+      "cases": 3
     },
     {
       "court": "GAMD",
