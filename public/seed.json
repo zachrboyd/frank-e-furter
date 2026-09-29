@@ -1,28 +1,8 @@
 {
-  "lastUpdated": "2026-09-27T14:53:48Z",
+  "lastUpdated": "2026-09-29T16:12:14Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "Luxottica of America Inc.",
-      "website": "luxotticaofamerica.com",
-      "industry": "Consumer Products",
-      "caseName": "Alvear v. Luxottica of America Inc.",
-      "plaintiff": "Alvear",
-      "plaintiffFirm": "N/A",
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "docketNumber": "6:26-cv-01958",
-      "dateFiled": "2026-09-02",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in M.D. Florida. Alvear is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
       "defendant": "CVHC 2 LLC",
       "website": "cvhc2.com",
       "industry": "Consumer Products",
@@ -42,7 +22,7 @@
       "coldOpen": ""
     },
     {
-      "id": 3,
+      "id": 2,
       "defendant": "PALDURO GROUP LLC",
       "website": "paldurogroup.com",
       "industry": "Consumer Products",
@@ -63,67 +43,7 @@
       "briefTheAE": "PALDURO GROUP LLC is being sued for website accessibility violations in S.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
     },
     {
-      "id": 4,
-      "defendant": "JCNAPLES, INC.",
-      "website": "jcnaples.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. JCNAPLES, INC.",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-81103",
-      "dateFiled": "2026-09-04",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 6,
-      "defendant": "1000 North, LLC",
-      "website": "1000north.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. 1000 North, LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-81101",
-      "dateFiled": "2026-09-04",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 7,
-      "defendant": "Panier Des Sens, Inc.",
-      "website": "panierdessens.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. Panier Des Sens, Inc.",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "docketNumber": "1:26-cv-07583",
-      "dateFiled": "2026-09-04",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. New York. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 8,
+      "id": 3,
       "defendant": "MCM Products USA Inc.",
       "website": "mcmproductsusa.com",
       "industry": "Consumer Products",
@@ -143,7 +63,7 @@
       "coldOpen": ""
     },
     {
-      "id": 9,
+      "id": 4,
       "defendant": "Perry Ellis Menswear, LLC",
       "website": "perryellismenswear.com",
       "industry": "Consumer Products",
@@ -166,7 +86,7 @@
   "serialFilers": [
     {
       "name": "Espinal",
-      "casesThisMonth": 6,
+      "casesThisMonth": 2,
       "typicalTargets": "Beauty, food products, specialty consumer brands",
       "courts": [
         "NYSD"
@@ -174,7 +94,7 @@
     },
     {
       "name": "Alvear",
-      "casesThisMonth": 3,
+      "casesThisMonth": 2,
       "typicalTargets": "Footwear retailers and food service brands",
       "courts": [
         "FLMD"
@@ -183,29 +103,29 @@
   ],
   "districtStats": [
     {
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "cases": 53
-    },
-    {
       "court": "S.D. Florida",
       "courtId": "flsd",
-      "cases": 45
+      "cases": 54
     },
     {
-      "court": "M.D. Florida",
-      "courtId": "flmd",
-      "cases": 32
+      "court": "S.D. New York",
+      "courtId": "nysd",
+      "cases": 49
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 31
+      "cases": 38
+    },
+    {
+      "court": "M.D. Florida",
+      "courtId": "flmd",
+      "cases": 28
     },
     {
       "court": "NYED",
       "courtId": "nyed",
-      "cases": 19
+      "cases": 11
     },
     {
       "court": "GAND",
@@ -213,13 +133,13 @@
       "cases": 4
     },
     {
-      "court": "MOED",
-      "courtId": "moed",
-      "cases": 3
+      "court": "E.D. Wisconsin",
+      "courtId": "wied",
+      "cases": 2
     },
     {
-      "court": "GAMD",
-      "courtId": "gamd",
+      "court": "MOED",
+      "courtId": "moed",
       "cases": 2
     },
     {
@@ -228,8 +148,8 @@
       "cases": 2
     },
     {
-      "court": "E.D. Wisconsin",
-      "courtId": "wied",
+      "court": "GAMD",
+      "courtId": "gamd",
       "cases": 1
     }
   ]
