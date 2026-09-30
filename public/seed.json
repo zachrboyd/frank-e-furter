@@ -1,49 +1,8 @@
 {
-  "lastUpdated": "2026-09-29T16:12:14Z",
+  "lastUpdated": "2026-09-30T16:08:48Z",
   "leads": [
     {
       "id": 1,
-      "defendant": "CVHC 2 LLC",
-      "website": "cvhc2.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. CVHC 2 LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-81106",
-      "dateFiled": "2026-09-04",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": false,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": ""
-    },
-    {
-      "id": 2,
-      "defendant": "PALDURO GROUP LLC",
-      "website": "paldurogroup.com",
-      "industry": "Consumer Products",
-      "caseName": "Espinal v. PALDURO GROUP LLC",
-      "plaintiff": "Espinal",
-      "plaintiffFirm": "N/A",
-      "court": "S.D. Florida",
-      "courtId": "flsd",
-      "docketNumber": "9:26-cv-81105",
-      "dateFiled": "2026-09-04",
-      "docketUrl": "https://www.courtlistener.com",
-      "confidenceScore": 85,
-      "enterprise": true,
-      "verified": false,
-      "hasIronyBadge": false,
-      "whyItMatters": "Consumer Products company sued for ADA website accessibility in S.D. Florida. Espinal is a known serial website-ADA filer.",
-      "coldOpen": "",
-      "briefTheAE": "PALDURO GROUP LLC is being sued for website accessibility violations in S.D. Florida. AE should reach out with a remediation timeline and compliance roadmap. The buying trigger is live."
-    },
-    {
-      "id": 3,
       "defendant": "MCM Products USA Inc.",
       "website": "mcmproductsusa.com",
       "industry": "Consumer Products",
@@ -63,7 +22,7 @@
       "coldOpen": ""
     },
     {
-      "id": 4,
+      "id": 2,
       "defendant": "Perry Ellis Menswear, LLC",
       "website": "perryellismenswear.com",
       "industry": "Consumer Products",
@@ -85,14 +44,6 @@
   ],
   "serialFilers": [
     {
-      "name": "Espinal",
-      "casesThisMonth": 2,
-      "typicalTargets": "Beauty, food products, specialty consumer brands",
-      "courts": [
-        "NYSD"
-      ]
-    },
-    {
       "name": "Alvear",
       "casesThisMonth": 2,
       "typicalTargets": "Footwear retailers and food service brands",
@@ -103,19 +54,19 @@
   ],
   "districtStats": [
     {
-      "court": "S.D. Florida",
-      "courtId": "flsd",
+      "court": "S.D. New York",
+      "courtId": "nysd",
       "cases": 54
     },
     {
-      "court": "S.D. New York",
-      "courtId": "nysd",
-      "cases": 49
+      "court": "S.D. Florida",
+      "courtId": "flsd",
+      "cases": 52
     },
     {
       "court": "C.D. California",
       "courtId": "cacd",
-      "cases": 38
+      "cases": 36
     },
     {
       "court": "M.D. Florida",
